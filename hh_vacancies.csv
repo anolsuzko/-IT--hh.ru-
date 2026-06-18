@@ -1,0 +1,602 @@
+Тип вакансии;Название вакансии;Мин. зарплата (рублей);Макс. зарплата (рублей);Тип зарплаты;Требуемый опыт (лет);Город;Компания;Требуемые навыки;Дата публикации
+ML-инженер;ML-инженер (Middle);;;;;Нижний Новгород;Riverstart (ООО Риверстарт);Машинное обучение, Bash, Docker, Apache Airflow, MLflow, SQL, Deep Learning, Kubernetes;09.06.2026
+ML-инженер;Senior ML Engineer (ИИ-агенты);;;;3.0;Москва;Сбер. Data Science;;09.06.2026
+ML-инженер;Lead ML Engineer;200000;300000.0;gross;;Москва;АО ТМГТ;;09.06.2026
+ML-инженер;ML-инженер по автоматизации планирования производства;277500;;gross;;Елабужский район;Алабуга. Аппарат генерального директора;;09.06.2026
+ML-инженер;ML-инженер по автоматизации планирования производства;277500;;gross;;Елабужский район;Алабуга. Аппарат генерального директора;;09.06.2026
+ML-инженер;ML-инженер;;;;3.0;Казань;Т-Банк. ИТ. Разработка;Python, Big Data, PyTorch;08.06.2026
+ML-инженер;ML-инженер;;;;3.0;Москва;Т1 Иннотех;SQL, Python, Kuberflow, Docker;08.06.2026
+ML-инженер;ML-инженер;;;;3.0;Москва;АО ГНИВЦ;Python, PostgreSQL, Git, NLP, PyTorch, Linux;08.06.2026
+ML-инженер;ML Engineer;;;;3.0;Ижевск;Хохряков Игорь;Английский — A2 — Элементарный;08.06.2026
+ML-инженер;ML-инженер;;;;;Москва;СОГАЗ: г. Москва;Python, FastAPI;08.06.2026
+ML-инженер;ML-инженер;;;;3.0;Москва;EvoAI;;08.06.2026
+ML-инженер;CV / ML / DL инженер (Джун);100000;150000.0;net;;Москва;NVI Solutions LLC;Python, Linux, PyTorch;09.06.2026
+ML-инженер;ML Engineer/Data Scientist Transactional AntiFraud;;;;;Ташкент;КСК-Эйч Ар;Python, Scikit-learn, Deep Learning, pandas, Elasticsearch, PyTorch, Английский язык, ETL, Amazon Web Services, Apache Cassandra, Clickhouse, Data Analysis, Математическая статистика, Теория вероятностей, Алгоритмы и структуры данных, Big Data;09.06.2026
+ML-инженер;ML-инженер/Инженер по внедрению AI-решений/AI Engineer;;;;;Воронеж;ООО «ДержавинЪ»;;09.06.2026
+ML-инженер;ML-продакт-менеджер;;;;3.0;Казань;Т-Банк. ИТ. Управление продуктами и проектами;;09.06.2026
+ML-инженер;Senior ML инженер;;;;3.0;Санкт-Петербург;Сбер. Data Science;;08.06.2026
+ML-инженер;ML/DS инженер;;;;3.0;Москва;RWB (Wildberries & Russ);;08.06.2026
+ML-инженер;Senior ML-разработчик / Программист машинного обучения / ML-Engineer;280000;;gross;;Псков;ООО НАСКА;Git, Английский язык, Scrum, Big Data, Python, SQL, Linux, REST, HTML, Data Analysis, PHP, NLP, Numpy, pandas, sklearn, PyTorch, TensorFlow, Обучение и развитие, Теория вероятностей, Docker, Scikit-learn, ML, Нейронные сети, Английский — B1 — Средний;09.06.2026
+ML-инженер;ML инженер (Middle);;;;;Москва;ООО Страховая компания Сбербанк страхование;;08.06.2026
+ML-инженер;Senior ML-инженер (RecSys);;;;3.0;Москва;RWB (Wildberries & Russ);RecSys, Python, MLflow;08.06.2026
+ML-инженер;ML Team Lead;;;;3.0;Москва;RWB (Wildberries & Russ);;02.06.2026
+ML-инженер;Lead (Senior) ML (AI) Engineer/Solution Architect;;;;;Москва;Градиент;Аналитические исследования, Машинное обучение, Разработка бизнес-модели, Аналитическое мышление, Python, JavaScript, TensorFlow, PyTorch, pandas, Numpy, SQL, Big Data, Бизнес-анализ, Приоритизация бэклога;05.06.2026
+ML-инженер;ML инженер;;;;3.0;Москва;RWB (Wildberries & Russ);;26.05.2026
+ML-инженер;ML-инженер;;;;;Москва;Ozon Офис и Коммерция;Ozon офис и коммерция;26.05.2026
+ML-инженер;ML-инженер / Архитектор RAG-систем;;;;;Пермь;ООО Академия Бизнес Решений;Python, Машинное обучение, Архитектура, API, Docker, Алгоритмы и структуры данных, Математическая статистика, RAG, NLP, Machine Learning, Natural Language Processing;01.06.2026
+ML-инженер;ML-инженер в Центр технологий искусственного интеллекта;;;;3.0;Нижний Новгород;Т-Банк. ИТ. QA;PyTorch, Python, Deep Learning, NLP, RecSys, LLM, Docker, Classic ML;02.06.2026
+ML-инженер;ML-инженер;;;;3.0;Красноярск;Т-Банк. ИТ. Разработка;Python, Git, Linux, Bash;26.05.2026
+ML-инженер;AI-Инженер (г. Владимир);120000;;net;;Владимир;ООО ЮК Импульс;;07.06.2026
+ML-инженер;Lead ML Engineer (Quant Researcher);450000;;net;;Москва;Дартс рекрутинг сервисез;;01.06.2026
+ML-инженер;Senior ML Engineer (Quant Researcher);400000;;net;3.0;Москва;Дартс рекрутинг сервисез;;01.06.2026
+ML-инженер;ML/AI Инженер;;;;3.0;Москва;ООО Платформа Трим;Python;28.05.2026
+ML-инженер;Middle ML Engineer;;;;;Санкт-Петербург;СПб ГКУ Санкт-Петербургский информационно-аналитический центр;Python, PyTorch, API, FastAPI;29.05.2026
+ML-инженер;Аналитик данных / ML;;;;3.0;Москва;Московский метрополитен;SQL, pandas, Numpy, Анализ данных, Машинное обучение, Python;01.06.2026
+ML-инженер;ML-продакт-менеджер;;;;3.0;Москва;Т-Банк. ИТ. Разработка;ML, AI, LLM, Product Management, Product Led Growth, Продуктовые метрики, Roadmap;01.06.2026
+ML-инженер;Руководитель группы ML, Базовые модели и инструменты;;;;;Москва;Ozon Tech;IT, торговая площадка, Python;04.06.2026
+ML-инженер;AI/ML Developer/Инженер по машинному обучению (Инженер-разработчик систем ИИ);170000;;net;;Москва;ООО Молайн;Python, Big Data, Обучение и развитие, Работа с базами данных, SQL, ML-фреймворки, Scikit-learn, PyTorch, TensorFlow, LLM, AI-агенты, Tableau, Power BI, AWS, GCP, Azure, Яндекс.Облако, OLAP, DevOps, ИИ;02.06.2026
+ML-инженер;ML-инженер/ML Quant Developer;;;;;Санкт-Петербург;Advantage Solutions;Python, Deep Learning, Английский — B2 — Средне-продвинутый;27.05.2026
+ML-инженер;ML Engineer;200000;350000.0;net;;Москва;ProfiStaff;;25.05.2026
+ML-инженер;Middle ML Engineer (Retrieval Agent / RnD);;;;;Москва;Сбер. Data Science;LoRA, SFT, LLM, HuggingFace, PyTorch, Reinforcement Learning;23.05.2026
+ML-инженер;Senior ML Engineer — Matching / NLP;;;;3.0;Москва;ООО HeadHunter::Analytics/Data Science;;21.05.2026
+ML-инженер;Руководитель группы ML, Генеративный контент;;;;;Москва;Ozon Tech;IT, торговая площадка;26.05.2026
+ML-инженер;Старший ML инженер;;;;3.0;Москва;Альфа-Банк. Центральный офис;Python, Hadoop, PySpark, Apache Kafka, Kubernetes, Jenkins, Apache Airflow, MLflow;13.05.2026
+ML-инженер;Senior C++ разработчик (интеграция ML/AI);;;;;Москва;ЗАО 1С;C++;27.05.2026
+ML-инженер;Senior ML-инженер;;;;3.0;Москва;Газпромбанк;;12.05.2026
+ML-инженер;Руководитель ML группы;;;;3.0;Москва;Ozon Tech;Python, Управление командой, IT;21.05.2026
+ML-инженер;С++ ML Engineer / Data Scientist (С++);250000;350000.0;gross;3.0;Москва;АО НЭПТ;С++, Qt, YOLO, CNN, OpenCV, CV, Computer Vision;22.05.2026
+ML-инженер;Senior ML Engineer CVM;;;;3.0;Москва;DODO BRANDS (Dodo Pizza, Drinkit);;17.05.2026
+ML-инженер;ML Engineer (MusicSearch);;;;3.0;Москва;Сбер. IT;;13.05.2026
+ML-инженер;Data Scientist / ML - инженер;;;;3.0;Москва;ООО ИЦ АЙ-ТЕКО;;15.05.2026
+ML-инженер;ML/DevOps Engineer;;;;3.0;Москва;МТС Банк. IT;vllm, Triton Inference Server, FastAPI, KServe, TorchServe, ML, Linux, CI/CD, DevOps;20.05.2026
+ML-инженер;ML Team Lead;;;;;Санкт-Петербург;Дром;Python, PyTorch, Apache Kafka, CatBoost, LightGBM, MySQL, PostgreSQL, Clickhouse, Redis, Docker, Kubernetes, GitLab CI, Grafana;20.05.2026
+ML-инженер;Tech Lead ML Engineer (Python);;;;;Санкт-Петербург;RedLab;;19.05.2026
+ML-инженер;ML Team Lead;;;;;Москва;RWB (Wildberries & Russ);;19.05.2026
+ML-инженер;Senior ML-инженер по инфраструктуре данных (GigaChat Data);;;;;Москва;Сбер. IT;;22.05.2026
+ML-инженер;ML разработчик;250000;;gross;3.0;Москва;ИП Фомин Сергей Александрович;Python, FastAPI, XGBoost, LightGBM, PyTorch, TensorFlow, JSON, Spark, PySpark, Hadoop, Apache Hive, Docker, Kubernetes, CI/CD, Unit Testing, OpenCV, Машинное обучение;14.05.2026
+ML-инженер;Data Scientist / ML Engineer;;200000.0;net;3.0;Москва;ООО ИЦ АЙ-ТЕКО;;15.05.2026
+ML-инженер;ML-инженер в Яндекс;;;;;Москва;Яндекс;;13.05.2026
+ML-инженер;Инженер MLOps;;;;3.0;Москва;ПАО БАНК УРАЛСИБ;Python, Kubernetes, Bash, CI/CD, Gitlab, MLflow, DevOps, MLOps, MinIO, Helm, JupyterHub, Prefect, Keycloak, Data Science, ML Engineer;13.05.2026
+ML-инженер;Middle+ / Senior MLOps инженер;250000;450000.0;gross;;Санкт-Петербург;RedLab;Машинное обучение, DevOps, Python, Django Framework, FastAPI;19.05.2026
+ML-инженер;AI Lead;;;;3.0;Москва;585, Холдинг;;09.06.2026
+ML-инженер;Системный аналитик (LLM, NLP, RAG, AI-агенты);;;;3.0;Москва;Diasoft;RAG, MCP, SGLang, Python, Go, Системный анализ, QWEN;09.06.2026
+ML-инженер;AI инженер/LLM инженер (RAG, Agents, Python);;;;3.0;Москва;ФГАОУ ВО РОССИЙСКИЙ НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ МЕДИЦИНСКИЙ УНИВЕРСИТЕТ им.Н.И. ПИРОГОВА МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ;"нацеленннацеленность на результат; надежность; системное мышление; кооперативность.";19.05.2026
+ML-инженер;Главный специалист по продвинутой аналитике/MLOPS инженер;;;;;Санкт-Петербург;ООО Газпромнефть-Региональные продажи;Python, Git, Linux, Kubernetes, Docker, Helm;25.05.2026
+ML-инженер;Technical Project Manager (AI Research);;;;3.0;Москва;Сбер. IT;;05.06.2026
+ML-инженер;Data Scientist – Digital Oilfield Systems, Kuwait;;;;;Москва;Rubius;Английский — B2 — Средне-продвинутый;08.06.2026
+ML-инженер;Старший технический писатель (MLS ETL);;;;3.0;Москва;Сloud.ru: Разработка;API, Release Notes, ML;05.06.2026
+ML-инженер;TechLead AI (МТС Веб Сервисы, Медиаплатформа);;;;;Москва;"""МТС"", Работа в IT";;03.06.2026
+ML-инженер;Аналитик-разработчик в команду AI Safety Алисы;;;;3.0;Москва;Команда Поисковых сервисов и ИИ;Python, Математическая статистика, Теория вероятностей, pandas;03.06.2026
+ML-инженер;Head of AI platform;400000;;net;;Москва;Hi, Rockits!;;03.06.2026
+ML-инженер;DS/ AI Lead (технический директор);;;;;Москва;Сбер. Data Science;;03.06.2026
+ML-инженер;Системный аналитик (команда MLOps tools);;;;3.0;Москва;Сбер. IT;;20.05.2026
+ML-инженер;AI/LLM Engineer в AI Lab;;;;3.0;Москва;ООО HeadHunter::Analytics/Data Science;Python, machine learning, data science, nlp, genai, langchain, langgraph, vllm, oss models, prompt engineering, rag, system design, FastAPI, asyncio, quadrant, mulvus, pgvector, highload, llm api;26.05.2026
+ML-инженер;Senior AI Engineer;;;;;Москва;YADRO;C++, Python;16.05.2026
+ML-инженер;Senior Data Scientist NLP (команда Phygital-продажи и GenAI);;;;3.0;Москва;Сбер. Data Science;;15.05.2026
+ML-инженер;Senior Python Backend-разработчик (Высоконагруженные системы, AI) Новосибирск;;;;3.0;Новосибирск;ООО СофтМолл;;25.05.2026
+ML-инженер;Специалист MLOps;;;;3.0;Саратов;ООО «РУСАГРО», ОЦО;;09.06.2026
+ML-инженер;Senior MLOps Engineer;;;;3.0;Москва;ООО Страховая компания Сбербанк страхование;;02.06.2026
+Data Scientist;Data Scientist в Сетку;;;;3.0;Москва;ООО HeadHunter::Analytics/Data Science;;03.06.2026
+Data Scientist;Data Scientist;;210000.0;net;3.0;Москва;ООО ИЦ АЙ-ТЕКО;;09.06.2026
+Data Scientist;Senior Data Scientist;;;;;Москва;ООО Страховая компания Сбербанк страхование;;09.06.2026
+Data Scientist;Data Scientist (GameDev);;;;3.0;Москва;Студия Кефир;BigQuery, Apache Airflow, Python, Power BI;09.06.2026
+Data Scientist;Senior Data scientist;;;;3.0;Подгорица;yourhr.tech;Python, Математическая статистика, BigQuery, Математический анализ, Big Data, Исследовательский анализ данных, Временные ряды;09.06.2026
+Data Scientist;Data Scientist (риски);;;;3.0;Москва;UZUM TECHNOLOGIES. IT;;09.06.2026
+Data Scientist;Data Scientist NLP (Senior);;;;;Москва;Сбер. IT;;09.06.2026
+Data Scientist;Middle\senior Data Scientist;;;;3.0;Москва;Сбер. IT;;09.06.2026
+Data Scientist;Data Scientist (Pricing);;;;3.0;Москва;Lamoda Tech;XGBoost, CatBoost, PySpark, Ценообразование, Pricing;09.06.2026
+Data Scientist;Data Scientist (Анализ цены);;;;;Москва;Домклик;Data Science, Python, Математическая статистика, SQL;09.06.2026
+Data Scientist;Data Scientist (Аудиоаналитика);;;;3.0;Новосибирск;ООО Робот Мия;MLflow, Clickhouse, Кластерный анализ, Аналитические тексты, SQL, Python, pandas, TensorFlow, Scikit-learn, PyTorch, Docker, Алгоритмы и структуры данных;09.06.2026
+Data Scientist;Data Scientist;;;;3.0;Москва;Ингосстрах;;08.06.2026
+Data Scientist;ML Engineer/Data Scientist Transactional AntiFraud;;;;;Ташкент;КСК-Эйч Ар;Python, Scikit-learn, Deep Learning, pandas, Elasticsearch, PyTorch, Английский язык, ETL, Amazon Web Services, Apache Cassandra, Clickhouse, Data Analysis, Математическая статистика, Теория вероятностей, Алгоритмы и структуры данных, Big Data;09.06.2026
+Data Scientist;Senior Data Scientist в Товарные рекомендации;;;;3.0;Москва;RWB (Wildberries & Russ);Python, PyTorch, PySpark;09.06.2026
+Data Scientist;Middle Data Scientist;;;;3.0;Москва;Сбер. IT;;08.06.2026
+Data Scientist;Data scientist / Эконометрист;;;;3.0;Москва;OOM;Эконометрика, Marketing mix modeling, Математическое моделирование;08.06.2026
+Data Scientist;Специалист по искусственному интеллекту (Middle Data Scientist);;;;;Челябинск;Фианит-ломбард;;09.06.2026
+Data Scientist;Data Scientist / Machine Learning Engineer в Управление стратегии и развития корпоративного бизнеса;;;;3.0;Москва;ОТП Банк. Бизнес;;09.06.2026
+Data Scientist;Data Scientist (AI Safety);;;;;Москва;Сбер. Data Science;;08.06.2026
+Data Scientist;Senior Data Scientist (Time series);;;;3.0;Москва;Сбер. Data Science;;08.06.2026
+Data Scientist;Middle Data Scientist (классический ML);;;;3.0;Москва;Сбер. Data Science;;27.05.2026
+Data Scientist;Риск-менеджер (Data Scientist);;;;;Москва;ПАО Банк ПСБ, Бизнес и инфраструктура;;26.05.2026
+Data Scientist;Middle/Senior Data Scientist (команда Сегменты);;;;3.0;Москва;Сбер. Data Science;;29.05.2026
+Data Scientist;Аналитик рынка/data scientist/Ml researcher;;;;3.0;Москва;ООО Восточная горнорудная компания;Аналитика, Market Research, Market Intelligence, рыночная аналитика, Исследование рынка, AI-инструменты, анализ сбыта, Регрессионный анализ, костовая модель, математическая модель, Data Analysis, data scientist;28.05.2026
+Data Scientist;Data Scientist в команду Внепродуктовой аналитики;;;;3.0;Москва;X5 Tech;Python, SQL, АБ тестирование, Машинное обучение;01.06.2026
+Data Scientist;Senior/Middle Data Scientist (Финансы / Кредитные риски/NLP/LLM);300000;400000.0;gross;3.0;Москва;Сбер. Data Science;;29.05.2026
+Data Scientist;Аналитик данных, Data Scientist (здравоохранение);;;;;Севастополь;ГБУЗС Медицинский Информационно-Аналитический Центр;Аналитическое мышление, Бизнес-анализ, Системный подход, Проведение презентаций, UML, Разработка технических заданий, MS Project, MS Visio, Разработка и внедрение системы KPI, Реинжиниринг бизнес-процессов, Моделирование бизнес процессов, Бизнес-планирование, ITIL, Постановка задач разработчикам, Исследовательский анализ данных;25.05.2026
+Data Scientist;Data scientist (CRM);230000;;gross;;Москва;Банк Русский Стандарт;Аналитика продаж, Oracle Pl/SQL, Математическое моделирование, Power BI;25.05.2026
+Data Scientist;Senior data scientist (разработка моделей рисков);;;;;Москва;Альфа-Банк. Центральный офис;;27.05.2026
+Data Scientist;Data Scientist (проектное финансирование);;;;3.0;Москва;АО Банк ДОМ.РФ Другие подразделения;Аналитическое мышление, Python, Numpy;27.05.2026
+Data Scientist;Data Scientist риск-модели;;;;;Москва;Центральный банк Российской Федерации (Банк России);;27.05.2026
+Data Scientist;Middle Data scientist (Рекламная платформа);;;;3.0;Москва;Сбер. IT;;27.05.2026
+Data Scientist;Senior Data Scientist LLM (команда Поиск знаний);;;;3.0;Москва;Сбер. Data Science;;29.05.2026
+Data Scientist;Junior/Middle Data Scientist (Classic ML / LLM);;;;;Москва;Сбер. Data Science;;21.05.2026
+Data Scientist;Senior/Lead Data Scientist CV (SberAI);;;;3.0;Москва;Сбер. Data Science;;28.05.2026
+Data Scientist;Data Scientist / ML Engineer;;200000.0;net;3.0;Москва;ООО ИЦ АЙ-ТЕКО;;28.05.2026
+Data Scientist;Data Scientist в Центр компетенций по внедрению ИИ-агентов;;;;3.0;Москва;Сбер. Data Science;;22.05.2026
+Data Scientist;ML Engineer/Data Scientist в команду прогнозирования, направление Deep Learning;;;;3.0;Москва;X5 Tech;Deep Learning;11.05.2026
+Frontend разработчик;Frontend-разработчик;;170000.0;gross;;Москва;НТЦ Радуга;JavaScript, HTML, Работа с большим объемом информации, Frontend;09.06.2026
+Frontend разработчик;Frontend-разработчик;40000;50000.0;net;;Архангельск;Автохолдинг Динамика;;09.06.2026
+Frontend разработчик;Frontend разработчик;;;;3.0;Москва;SberTech;;09.06.2026
+Frontend разработчик;Frontend разработчик;;;;;Санкт-Петербург;585, Холдинг;Git, JavaScript, ООП, Vue.js, Scrum, REST API;09.06.2026
+Frontend разработчик;Frontend-разработчик;200000;;net;3.0;Санкт-Петербург;StudyWorld;TypeScript, React;09.06.2026
+Frontend разработчик;Frontend разработчик;;;;3.0;Москва;ИдаПроджект;;09.06.2026
+Frontend разработчик;Frontend разработчик;;;;3.0;Москва;ООО WhyHappen;;09.06.2026
+Frontend разработчик;Стажер Frontend-разработчик (React);;;;;Москва;Saveur Studio;REST API, REST, JS, Redux, JavaScript, Git, TypeScript, React, API, HTTP, HTML, Zustand, Next.js, GSAP;09.06.2026
+Frontend разработчик;Frontend разработчик (middle);;;;3.0;Москва;ООО Аксилон Консалтинг;React, JavaScript, jQuery, Ajax, HTML;09.06.2026
+Frontend разработчик;Senior frontend-разработчик (Backbone.js);;350000.0;net;3.0;Новосибирск;ООО Смарт консалтинг;Java21, JavaScript, Apache Tapestry, JAX-RS, PostgreSQL, Backbone.js;09.06.2026
+Frontend разработчик;Веб-технолог/Frontend-разработчик;170000;190000.0;gross;;Воронеж;ООО «ОФИСМАГ», IT;HTML, JavaScript, Git, Работа в команде, Figma, Docker, CSS, PHP, jQuery, React, TypeScript, Node.js;09.06.2026
+Frontend разработчик;Senior Frontend разработчик (GameDev / Animations expert);;;;3.0;Москва;Made of Storm;JavaScript, Обучение и развитие, Организаторские навыки, TypeScript;09.06.2026
+Frontend разработчик;Frontend разработчик (React);65000;100000.0;gross;;Волгоград;Интегрикс;React.JS, JavaScript, Redux, Node.js, Postman, TypeScript, REST API;09.06.2026
+Frontend разработчик;Frontend-разработчик;;;;3.0;Зеленоград;АО Международный Научно-Технологический Центр Миэт;;08.06.2026
+Frontend разработчик;Frontend developer;187500;;net;;Москва;ООО Трейдмарк холдер;JavaScript, TypeScript, HTML, Git, HTML5;09.06.2026
+Frontend разработчик;Frontend-разработчик (React);;;;;Барнаул;ООО Свик;JavaScript, React, Redux, TypeScript, Webpack, Jest/Mocha, PCSS/Sass/Less, Docker, Sentry, Influx, Grafana, TeamCity;09.06.2026
+Frontend разработчик;Frontend-разработчик (Middle/Senior);180000;300000.0;net;3.0;Москва;ДЖЕЙКЕТ;Знание алгоритмов, Использование фреймворков, Написание кода, Оптимизация производительности, Проведение тестирования, Работа с базами данных, Разработка архитектуры приложений;09.06.2026
+Frontend разработчик;Frontend-разработчик (JS/Angular);;;;3.0;Москва;ООО НПП Баум;JavaScript, TypeScript, Angular, REST, HTML, AngularJS;09.06.2026
+Frontend разработчик;Frontend-разработчик;200000;;net;3.0;Москва;ИП Королева Мария Арсеновна;JavaScript, TypeScript, React, Performance Optimization, Web Performance, Core Web Vitals, Data Visualization, D3.js, ECharts, Highcharts, Recharts, WebSocket, Frontend, Git, Chrome DevTools;08.06.2026
+Frontend разработчик;Frontend-разработчик;;;net;;Санкт-Петербург;ИП Козырев Артем Сергеевич;Git, REST API, Nexus, React, Figma;05.06.2026
+Frontend разработчик;Frontend-разработчик;127500;;gross;;Елабужский район;Алабуга. Служба стратегического развития;;05.06.2026
+Frontend разработчик;Frontend-разработчик;;;;3.0;Москва;ООО ТРАНСЭНЕРГОСНАБ;;05.06.2026
+Frontend разработчик;Frontend-разработчик (React) middle/senior;;;;3.0;Москва;ООО ОМНИДАТА;JavaScript, TypeScript, HTML, Angular, Atlassian Jira, SaaS, Git, Разработка ПО, React;07.06.2026
+Frontend разработчик;Junior Frontend Developer (React / Next.js);;;;;Москва;REYWOOD;React, JavaScript, TypeScript, HTML, CSS, Git;08.06.2026
+Frontend разработчик;Frontend–разработчик;250000;;net;3.0;Москва;Центр Информационных технологий Роскадастр-Инфотех Филиал Роскадастр;Git, TypeScript, JavaScript, React, Docker;05.06.2026
+Frontend разработчик;Frontend-разработчик;;;;3.0;Москва;М.Видео-Эльдорадо. ИТ;React, gRPC, JavaScript, TailwindCSS, Agile, Google Maps Api, Promises;05.06.2026
+Frontend разработчик;Senior/Tech Lead frontend-разработчик;300000;350000.0;net;;Санкт-Петербург;ООО Бизнес Технологии;JavaScript, React, TypeScript, GWT;07.06.2026
+Frontend разработчик;Frontend разработчик (Vue.js) Middle/Senior;;;;3.0;Москва;Пуск;vue.js, Frontend developer, vue2, vue3, FinTech, TypeScript, Английский - А2 - Элементарный, JavaScript, Английский — A2 — Элементарный;07.06.2026
+Frontend разработчик;Senior (Middle) Frontend Developer (React / TypeScript);150000;250000.0;net;3.0;Киров (Кировская область);0xGuard;TypeScript, React;08.06.2026
+Frontend разработчик;Frontend-разработчик Vue.js (в офис);90000;150000.0;gross;;Краснодар;ООО Дрим Тим;JavaScript, Git, VueJS, CSS3, Gulp, Адаптивная верстка, Кроссбраузерная верстка, Рефакторинг кода, HTML5, TypeScript, REST API, GraphQL, Agile;03.06.2026
+Frontend разработчик;Frontend-разработчик NextJS (Middle);150015001500150015001500150015001500150015001500150015001500150015001500150015001500150015001500150015001500150015001500150015001500150015001500150015001500150015001500150015001500150015001500150015001500150015001500150015001500150015001500150015001500150015001500150015001500150015001500150015001500;225000.0;net;3.0;Москва;ИП Киселев Василий Андреевич;NextJS, Tailwind, NextUI, Telegram mini app, Английский язык, React Native, Английский — B1 — Средний;02.06.2026
+Frontend разработчик;Frontend (Angular, ОФИС) разработчик;;250000.0;gross;3.0;Москва;SkillStaff;Angular, JavaScript, TypeScript, Git, CI/CD;02.06.2026
+Frontend разработчик;Frontend-разработчик;150000;;net;;Москва;БИТ;JSON API, HTML, JavaScript, VueJS;29.05.2026
+Frontend разработчик;Frontend Developer (Веб-разработчик);;130000.0;gross;;Москва;Таргет Плюс;JavaScript, HTML, Git, CSS3, HTML5, Sass, Less;01.06.2026
+Frontend разработчик;Frontend developer JS (middle);157500;;gross;;Елабужский район;Алабуга. Проектный менеджмент;JS, JavaScript, Leaflet, HTML, CSS, ООП, Наследование, Инкапсуляция, Полиморфизм, MVC, Singleton, Observer, ES6+, ES6, Chrome DevTools, Lighthouse, Jest, Mocha, Jasmine, Karma, Linux, Docker;03.06.2026
+Frontend разработчик;Senior frontend developer;250000;420000.0;gross;;Уфа;Тензор;Git, JavaScript, React, TypeScript, Redux, HTML, CSS, ООП, HTML5, Английский — A1 — Начальный;02.06.2026
+Frontend разработчик;Frontend-разработчик React (junior);;;;;Санкт-Петербург;Т-Банк. ИТ. Разработка;;01.06.2026
+Frontend разработчик;Frontend developer (Junior);;;;;Санкт-Петербург;Sputnik8;TypeScript, HTML, CSS, GraphQL;02.06.2026
+Frontend разработчик;Frontend-разработчик;40000;50000.0;net;;Ярославль;Студия Перцы;HTML, CSS3, Git, React, Sass, Кроссбраузерная верстка, Figma, Английский — A1 — Начальный;28.05.2026
+Frontend разработчик;Frontend-разработчик;;;;3.0;Москва;ГКУ Инфогород;JavaScript, Java, HTML;28.05.2026
+Frontend разработчик;Frontend-разработчик Junior+ / Middle;25000;35000.0;net;;Саратов;Сельский Дом;JavaScript, HTML, Git, Node.js, React, Figma;01.06.2026
+Frontend разработчик;Frontend developer (react/redux);;;;;Москва;Альфа-Банк;Redux, React.js, Webpack, ReactJS, NodeJS, HTML/CSS, React/Redux;03.06.2026
+Frontend разработчик;Frontend-разработчик React (middle+/senior);;;;3.0;Санкт-Петербург;Т-Банк. ИТ. Разработка;JavaScript, React;01.06.2026
+Frontend разработчик;Frontend Developer (React) Middle/Senior;;;;3.0;Москва;X5 Tech;;03.06.2026
+Frontend разработчик;Frontend-разработчик (TypeScript, React);;;;;Санкт-Петербург;Alee Software;TypeScript, HTML, CSS, Java Script, React, Git, Английский язык;24.05.2026
+Frontend разработчик;Frontend-разработчик (Senior);;;;3.0;Санкт-Петербург;ТестОпс;TypeScript, JavaScript, React, PostgreSQL, API;21.05.2026
+Frontend разработчик;Frontend Разработчик (Angular);;;;3.0;Москва;Т1 Иннотех;Angular, AngularJS, React;21.05.2026
+Frontend разработчик;Frontend-разработчик (REACT);;;net;3.0;Владивосток;ИП Ефремова Альбина Александровна;Техническая поддержка, Работа с большим объемом информации, Деловое общение;21.05.2026
+Frontend разработчик;Frontend Developer (Angular);200000;280000.0;net;;Москва;ООО Рекурсия;Git, CSS3, HTML5, Java Script, Angular, Нейронные сети;25.05.2026
+Frontend разработчик;Разработчик frontend программного обеспечения (C/C++, GUI);120000;;net;;Саратов;ООО Терция;LabVIEW, MATLAB, Linux, Python, Three.js, CI/CD, Node.js, Vulkan, Modbus, OpenGL, Redux, Pinia, D3.js;28.05.2026
+Frontend разработчик;Frontend-разработчик;;200000.0;net;3.0;Москва;ООО ИЦ АЙ-ТЕКО;;15.05.2026
+Frontend разработчик;Middle Frontend-разработчик;;;;3.0;Москва;Whoosh (ООО Вуш);JavaScript, React, aws, Azure;20.05.2026
+Frontend разработчик;Frontend Developer (React.js, Next.js);;;;3.0;Санкт-Петербург;ООО ЮДС Медиа;React.js, Next.js, SSR, Git, Docker, Nginx, SQL-запросы;27.05.2026
+Frontend разработчик;Frontend-разработчик;;;;;Москва;Аптечная сеть Ваша №1 х Таблетка.ру;;15.05.2026
+Frontend разработчик;Junior Frontend-разработчик (React, Next.js);70000;95000.0;gross;;Нижний Новгород;Saveur Studio;JavaScript, REST, JS, HTML, HTML5, Git, React, TypeScript, REST API, Redux, Next.js, CSS3, Zustand, Vite, MobX, Tailwind, Веб-аналитика, Английский — B1 — Средний;25.05.2026
+Frontend разработчик;Frontend-разработчик (React);80000;150000.0;net;3.0;Казань;ООО Мир технологий;JavaScript, PostgreSQL, Node.js, Git, React/Redux, TypeScript;20.05.2026
+Frontend разработчик;Ведущий фронтенд (frontend) разработчик/программист (JS, PHP, web);264500;;gross;3.0;Санкт-Петербург;СевенТест, НТЦ;;28.05.2026
+Frontend разработчик;Frontend-разработчик (middle);150000;250000.0;gross;3.0;Тюмень;Тензор;React, HTML, CSS3, TypeScript, JavaScript;20.05.2026
+Frontend разработчик;Senior/Lead Frontend разработчик (React);;;;;Москва;Росгосстрах;JavaScript, TypeScript, React, Webpack;14.05.2026
+Frontend разработчик;Frontend-developer Angular (проект Лоцман: PLM);;;;3.0;Нижний Новгород;АСКОН;;21.05.2026
+Frontend разработчик;Frontend Developer Финтех;;200000.0;gross;3.0;Москва;ООО ИЦ АЙ-ТЕКО;;12.05.2026
+Frontend разработчик;Frontend-разработчик(React, Node.js)/Стажер;;;;;Санкт-Петербург;Гарпикс;React, Node.js, Redux;12.05.2026
+Frontend разработчик;Frontend-разработчик (React.js, FSD) Финтех;;;;;Санкт-Петербург;Decart IT-production;React;12.05.2026
+Frontend разработчик;Frontend-разработчик (Vue3, Typescript);;;;;Москва;TirScript;TypeScript, Vue.js, ООП;12.05.2026
+Backend разработчик;Backend TeamLead | ATSystems;700070007000700070007000700070007000700070007000700070007000700070007000700070007000700070007000700070007000700070007000700070007000700070007000700070007000700070007000700070007000700070007000700070007000700070007000700070007000700070007000700070007000700070007000700070007000700070007000700070007000;675000.0;net;3.0;Москва;ATSystems;PostgreSQL, Git, Node.js, JavaScript, Управление командой, Highload, AdTech;08.06.2026
+Backend разработчик;Backend-разработчик;40000;50000.0;net;;Архангельск;Автохолдинг Динамика;;09.06.2026
+Backend разработчик;Backend-разработчик;;120000.0;net;;Москва;Межрегиональная инспекция Федеральной налоговой службы по управлению долгом;JavaScript, MySQL, SQL, TypeScript, Git, Node.js;09.06.2026
+Backend разработчик;Backend-разработчик;120000;200000.0;gross;;Москва;ООО Трианон;;09.06.2026
+Backend разработчик;Backend-разработчик;;;;3.0;Новосибирск;Дром;;09.06.2026
+Backend разработчик;Backend-разработчик;120000;150000.0;net;;Иркутск;AUTOTIME;;09.06.2026
+Backend разработчик;Laravel Backend-разработчик;;;;3.0;Москва;Федерация хоккея России;;09.06.2026
+Backend разработчик;Fullstack / Backend-разработчик;150000;230000.0;net;3.0;Москва;ИП Заиченко Екатерина Александровна;Python, API, Linux, Веб-программирование, Redis, REST, REST API, Laravel, Claude, React;09.06.2026
+Backend разработчик;Python Backend Developer;100000;;net;3.0;Санкт-Петербург;Broad Apps;Python, Git;09.06.2026
+Backend разработчик;Backend-разработчик (офис);180000;230000.0;net;3.0;Москва;ООО Старт;;09.06.2026
+Backend разработчик;Backend разработчик PHP;;;;3.0;Пермь;ООО Умная Логистика;PHP, Laravel, Docker, SQL, Lumen, PostgreSQL;09.06.2026
+Backend разработчик;Backend-разработчик (middle);90000;160000.0;gross;;Новосибирск;Агентство Недвижимости Жилфонд;PHP, Laravel, PostgreSQL, MySQL, ООП, VueJS, MVC, XML, Веб-программирование, Avid Media Composer;09.06.2026
+Backend разработчик;Backend-разработчик (стажёр);80000;;net;;Красноярск;Компания Апогей;;09.06.2026
+Backend разработчик;Backend-разработчик (Node.js / NestJS);;230000.0;net;3.0;Санкт-Петербург;Digital Chief;;09.06.2026
+Backend разработчик;Backend-разработчик (PHP / Laravel);70000;90000.0;net;3.0;Москва;ООО Медориа40;PHP, Laravel, Dart, REST API, Docker;09.06.2026
+Backend разработчик;Senior Backend Developer (GameDev);;;;;Москва;ТОО MadOut Games;TypeScript, Node.js;09.06.2026
+Backend разработчик;Backend-разработчик;150000;;net;3.0;Москва;ООО СМТТех;Автоматизация бизнес-процессов, ERP-системы, MES-системы, Linux, REST API;08.06.2026
+Backend разработчик;Senior Backend разработчик (Rust);300000;;net;;Москва;ООО Стрит Фалькон;Docker, Kubernetes, RabbitMQ, Computer Vision, Clickhouse;07.06.2026
+Backend разработчик;Разработчик backend BI Visiology;;;;;Москва;АО Промышленные инновации;SQL, Python, NoSQL, Big Data;07.06.2026
+Backend разработчик;Backend Engineer (Node.js / TypeScript + Go);200000;;net;3.0;Екатеринбург;ООО Винные аналитические системы;Node.js, JavaScript, Go, Backend, TypeScript, PostgreSQL, GraphQL, REST API, gRPC, Redis, Elasticsearch, Docker, Golang;09.06.2026
+Backend разработчик;Backend-разработчик Python / FastAPI для desktop-приложения;;140000.0;net;;Санкт-Петербург;ООО Визионеро;Python, PostgreSQL;08.06.2026
+Backend разработчик;Middle + Backend-разработчик (Python + Go);;;;3.0;Москва;ИП Мамаева Ирина Анатольевна;Django Rest Framework, SQLAlchemy, Docker, Gitlab, Python, RabbitMQ, SQL, Linux, PostgreSQL, Git, Golang, go, Разработка ПО, Обучение и развитие, Backend, React, Django Framework, Redux, Nginx, CI/CD;08.06.2026
+Backend разработчик;Middle backend разработчик С#;;;;3.0;Челябинск;ООО Техноком;C#, .NET Framework, Entity Framework, REST, PostgreSQL, Git;07.06.2026
+Backend разработчик;Backend-разработчик (Middle+/Senior);200000;250000.0;net;3.0;Москва;ДЖЕЙКЕТ;Знание алгоритмов, Использование фреймворков, Написание кода, Оптимизация производительности, Проведение тестирования, Работа с базами данных, Разработка архитектуры приложений, Python;07.06.2026
+Backend разработчик;PHP-разработчик / Backend-разработчик / Back-end;120000;;net;3.0;Ростов-на-Дону;SEOCare;PHP, HTTP, REST API, Базы данных, Docker, HTML, CSS, Java, Linux, Git;07.06.2026
+Backend разработчик;Senior Backend-разработчик / Senior Backend-developer;400000;;net;3.0;Москва;Playerok;Node.js, nest.js;07.06.2026
+Backend разработчик;Middle Backend разработчик (Rust);200000;;net;3.0;Москва;ООО Стрит Фалькон;Python, RabbitMQ, FastAPI, SQLAlchemy, Clickhouse, Computer Vision, Linux, PostgreSQL, Gitlab, CI/CD, NoSQL, SQL, Docker, Kubernetes, MongoDB, SOLID;07.06.2026
+Backend разработчик;Kotlin Backend Developer;;;;3.0;Санкт-Петербург;Okko;Kotlin, Spring Framework, Kubernetes;05.06.2026
+Backend разработчик;Backend Developer (GameDev);;;;3.0;Москва;Meowpunk;PostgreSQL, Python, Базы данных, Kafka, NATS, C#, Kubernetes, Docker;05.06.2026
+Backend разработчик;Backend-разработчик;100000;;net;3.0;Калуга;ООО Автоматизированные микропроцессорные системы;PostgreSQL, Git, Разработка ПО, MySQL, C#;02.06.2026
+Backend разработчик;Senior C# /.NET Backend / под архитектуру Unity/WebGL;;;;;Москва;NATIVE TRENDS;;08.06.2026
+Backend разработчик;Backend-разработчик (.NET Core /C#);250000;;net;3.0;Ижевск;Ёбидоёби, сеть доставки суши и роллов;.NET Core, SOLID, REST API, PostgreSQL, RabbitMQ, Docker, Linux;05.06.2026
+Backend разработчик;Middle+/Senior Backend-разработчик;;;;3.0;Москва;Сбер. IT;;04.06.2026
+Backend разработчик;Ведущий инженер - программист С# , техлид/тимлид команды (Senior C# разработчик/Backend Tech Lead);;;;;Москва;Мегаполис ИТ;C#, PostgreSQL, .NET Core, Микросервисная архитектура, net 9;07.06.2026
+Backend разработчик;Middle Backend-разработчик;200000;;net;3.0;Самара;ООО Юридический Сервис ЮрКлик;Java, Python;03.06.2026
+Backend разработчик;Backend-разработчик (PHP / Laravel);150000;;net;;Москва;ООО Ри-Адванс;Laravel, PHP;04.06.2026
+Backend разработчик;Middle Python Backend Developer;;;;3.0;Санкт-Петербург;ООО Норд Клан;Python, PostgreSQL, Django Framework, REST API, GitHub, Django Rest Framework;02.06.2026
+Backend разработчик;Senior backend-разработчик (.Net/C#);;;;;Санкт-Петербург;Первый Бит;.NET Core, C#, MySQL, RabbitMQ, Apache Kafka, Redis;01.06.2026
+Backend разработчик;Senior .NET Backend Developer;;;;;Москва;АО Топ Системы;ASP.NET, С#, REST API, RabbitMQ, NET10., ASP.NET Core, Swagger;02.06.2026
+Backend разработчик;С# Senior Backend Developer (Blockchain + FinTech);250000;500000.0;net;3.0;Москва;ООО Брисмани;C#, .NET Core, PostgreSQL, Entity Framework, Redis, Atlassian Jira, RabbitMQ;04.06.2026
+Backend разработчик;Senior Backend Developer (Golang)/Инженер-разработчик;;;;3.0;Москва;АО Специализированный депозитарий ИНФИНИТУМ;Golang;01.06.2026
+Backend разработчик;Backend Node.js разработчик;;;;3.0;Москва;X5 Digital;Node.js, MongoDB, Kunernetes, RabbitMQ;28.05.2026
+Backend разработчик;Backend PHP-программист;;;;;Москва;АО ТАНАИС;PHP, Laravel, Bitrix, Git, HTML, CSS, JavaScript, API, REST API, CI/CD, jQuery, Английский — B2 — Средне-продвинутый;03.06.2026
+Backend разработчик;Backend-разработчик (Kotlin / Java);300000;;gross;3.0;Санкт-Петербург;AVRIO Group Consulting;Java, Kotlin, Spring Boot, PostgreSQL, MongoDB, Redis, Apache Kafka;30.05.2026
+Backend разработчик;Backend-разработчик;;;;;Москва;ООО АТМ;;25.05.2026
+Backend разработчик;Backend .NET разработчик;;;;3.0;Москва;Finstar Financial Group;;28.05.2026
+Backend разработчик;Node.js Backend Developer (Atomic Mail);;;;3.0;Санкт-Петербург;Бойлер лабс;Node.js, REST API, OWASP, SQL, NoSQL, JavaScript, Git;02.06.2026
+Backend разработчик;Junior Backend Developer (PHP, Laravel);60000;;gross;;Москва;ПроКонтекст;PHP, Git, MySQL, ООП, Laravel, Docker;02.06.2026
+Backend разработчик;Backend-разработчик;;;;;Москва;Мосгосэкспертиза;Git, PostgreSQL, Spring Framework, SDLC, SOLID, HTTP, HTTPS, Английский — B1 — Средний;18.05.2026
+Backend разработчик;Backend-разработчик, Senior;;;;;Уфа;ООО ИК СИБИНТЕК;;22.05.2026
+Backend разработчик;Backend-разработчик, junior+;;;;;Уфа;ООО ИК СИБИНТЕК;;22.05.2026
+Backend разработчик;Разработчик Бэкенд (РНР);;;;3.0;Москва;Ригла;MS SQL Server, MS SQL, База данных: Olap, PHP, HTML/CSS, CSS, MySQL, Git, ООП, PostgreSQL, Laravel, Symfony, Kafka, Docker, SOLID;02.06.2026
+Backend разработчик;Python backend developer;;;;3.0;Москва;Сбер. IT;;26.05.2026
+Backend разработчик;Backend-разработчик;150000;220000.0;gross;3.0;Москва;Cookies.Games;Node.js, TypeScript, NestJS, TypeORM, PostgreSQL, Crypto, Английский — B1 — Средний;17.05.2026
+Backend разработчик;Backend n8n разработчик;50000;150000.0;net;;Иннополис;Тулбокс;PostgreSQL, REST, Git, Базы данных, Аналитическое мышление, Docker, Системный анализ;26.05.2026
+Backend разработчик;Программист (Backend-разработчик);;220000.0;gross;3.0;Москва;АО Концерн Созвездие;SQL, Python, API, PostgreSQL, Работа с базами данных, Docker;21.05.2026
+Backend разработчик;Backend-разработчик (python);;90000.0;net;;Ростов-на-Дону;ФГАНУ НИИ Спецвузавтоматика;Python, FastAPI, Django Framework, REST API;21.05.2026
+Backend разработчик;Ведущий разработчик (backend developer Java/Kotlin);;;;;Москва;T2. IT и Digital;Java, Kotlin, PostgreSQL, Apache Kafka, Hibernate, Docker, Kubernetes;02.06.2026
+Backend разработчик;Руководитель группы бэкенд-разработчиков ( PHP);;;;;Москва;НМГТЕХ;PHP, MySQL, Symfony, API, Git, Docker, SOLID, Микросервисная архитектура, Управление командой;28.05.2026
+Backend разработчик;Senior/Middle+ Backend-разработчик (Python / AI / LLM);;;;;Москва;Сбер. IT;Python, PostgreSQL;27.05.2026
+Backend разработчик;PHP (+Go) Backend-разработчик в офис;200000;;gross;;Ростов-на-Дону;Posiflora;MySQL, PHP, PostgreSQL, Golang, Git, Linux, Docker, Go, Symfony;13.05.2026
+Backend разработчик;Системный аналитик (backend-to-backend интеграции / mobile);;;;3.0;Москва;Ventra;;20.05.2026
+Backend разработчик;Backend разработчик / PHP-программист в офис;;;;;Вологда;Baza.net;MySQL, PHP, Git, Linux, SQL, ООП;13.05.2026
+Backend разработчик;Backend-разработчик с уклоном в AI;152000;182000.0;gross;;Красноярск;ООО РН-Учет;;13.05.2026
+Backend разработчик;Ведущий инженер/главный инженер (Middle/Senior Backend);100000;;net;3.0;Челябинск;ПАО ЧЕЛИНДБАНК;SQL, XML, СУБД, Git, Python, PostgreSQL, ORACLE, Atlassian Jira, Unix, Bash, Perl;26.05.2026
+Backend разработчик;Python Backend Developer (AI Platform, LLM Systems) / Python?бэкенд?разработчик;;;;3.0;Москва;ФГАОУ ВО РОССИЙСКИЙ НАЦИОНАЛЬНЫЙ ИССЛЕДОВАТЕЛЬСКИЙ МЕДИЦИНСКИЙ УНИВЕРСИТЕТ им.Н.И. ПИРОГОВА МИНИСТЕРСТВА ЗДРАВООХРАНЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ;Ориентация на результат, Мотивация сотрудников, Стрессоустойчивость;19.05.2026
+Backend разработчик;Backend Developer Go Middle;150000;;gross;;Москва;TrueConf;Go, REST, WebSocket, gRPC, PostgreSQL, SQL, Git;13.05.2026
+Backend разработчик;Бэкенд-разработчик nestjs / backend developer nestjs;;;;;Москва;Банк Русский Стандарт;;12.05.2026
+Backend разработчик;Backend Tech Lead;;;;;Москва;Overgear;;17.05.2026
+Backend разработчик;Backend Architect / Tech Lead;;;;3.0;Москва;ООО Виви Мед;Python, Docker, PostgreSQL, Git, Linux, SQL, REST, Redis, API, Teamleading, Управление командой, Английский язык, Node.js, TypeScript, RBAC, AWS, solution architecture;11.05.2026
+Backend разработчик;Senior Backend (Python + JS) Developer;500050005000500050005000500050005000500050005000500050005000500050005000500050005000500050005000500050005000500050005000500050005000500050005000500050005000500050005000500050005000500050005000500050005000500050005000500050005000500050005000500050005000500050005000500050005000500050005000500050005000;750000.0;gross;;Москва;Simplenight;FastAPI, Kubernetes, Next.js, PostgreSQL, Redis, Elasticsearch, Python, TypeScript, Английский — C1 — Продвинутый, Русский — C2 — В совершенстве;07.06.2026
+Backend разработчик;Senior Backend разработчик Java/Kotlin;;;;;Санкт-Петербург;Okko;;29.05.2026
+Backend разработчик;Backend-разработчик, Middle;;;;3.0;Уфа;ООО ИК СИБИНТЕК;;22.05.2026
+Backend разработчик;Java/Kotlin backend разработчик;;;;;Москва;Яндекс;Java, Kotlin, ООП, C++, SQL, Рефакторинг кода, Spring Boot, Разработка ПО, Spring Framework, PostgreSQL, Разработка продукта;21.05.2026
+Backend разработчик;Backend-разработчик (NestJS);;;;;Санкт-Петербург;ЭР-Телеком Холдинг;Node.js, NestJS, TypeScript, MySQL, MongoDB, Clickhouse, Redis, Apache Kafka, Docker, Kubernetes, Jest, Prometheus, Grafana, Sentry, Swagger;15.05.2026
+Backend разработчик;Руководитель команды backend разработки;;;;;Санкт-Петербург;Версус Сервис;;28.05.2026
+Backend разработчик;Middle Backend Developer (Golang);157500;;gross;3.0;Елабужский район;Алабуга. Управление цифровой трансформации;Golang, PostgreSQL, Git, Backend, Go;22.05.2026
+Backend разработчик;Middle Backend Developer (Golang);157500;;gross;3.0;Елабужский район;Алабуга. Управление цифровой трансформации;Golang, PostgreSQL, Git, Backend, Go;22.05.2026
+Backend разработчик;Разработчик бэкенда в Яндекс Образование;;;;3.0;Санкт-Петербург;Яндекс;Python, Golang;29.05.2026
+Fullstack разработчик;Fullstack разработчик PHP+JS;230000;260000.0;net;;Москва;ООО Джем-Софт;PHP, MongoDB, JavaScript;08.06.2026
+Fullstack разработчик;Fullstack-разработчик / Fullstack Developer;150000;250000.0;gross;3.0;село Поляны;ООО Интер Парк;;08.06.2026
+Fullstack разработчик;Fullstack-разработчик;200000;;net;;Москва;БИТ;MS SQL, PostgreSQL, JSON API, HTML, JavaScript, Bootstrap;07.06.2026
+Fullstack разработчик;Fullstack-разработчик;;;;3.0;Москва;Made of Storm;Node.js, Python, PHP;09.06.2026
+Fullstack разработчик;Fullstack-разработчик (Flutter + Laravel);70000;90000.0;net;;Москва;ООО Медориа40;Laravel, Flutter;09.06.2026
+Fullstack разработчик;Старший Fullstack-разработчик (Vue.JS+PHP);;350000.0;net;;Москва;ООО МФК Фордевинд;jQuery, Git, Laravel, PHP, VueJS;09.06.2026
+Fullstack разработчик;Fullstack-разработчик;100000;180000.0;gross;3.0;Москва;Инрэко ЛАН;MySQL, PostgreSQL, React, VueJS, .NET Framework, С#;04.06.2026
+Fullstack разработчик;Fullstack-разработчик (React + Node.js) (отдел поддержки сайтов);;180000.0;gross;;Москва;Пиксель Плюс;Node.js, PHP, Git, API, 1С-Битрикс;08.06.2026
+Fullstack разработчик;Fullstack-разработчик PHP;;;;;Москва;ГКУ Инфогород;PHP, VueJS, PostgreSQL, Laravel, Symfony;09.06.2026
+Fullstack разработчик;Junior Fullstack-разработчик;60000;90000.0;gross;;Санкт-Петербург;Fora Soft (Фора Софт);JavaScript, Atlassian Jira, Аналитическое мышление, Node.js, Git, SQL, HTTP, ООП, MongoDB, React, React Native, Веб-программирование, Linux, Английский — B1 — Средний;04.06.2026
+Fullstack разработчик;Fullstack разработчик / Fullstack Developer;70000;;net;;Пермь;ООО Вайт Рэбит;1С-Битрикс, PHP, jQuery, Git, ООП, CSS, HTML, JavaScript, MySQL, SQL, Bitrix Framework, Scrum, Agile, Битрикс24, REST, API, XML;09.06.2026
+Fullstack разработчик;Fullstack разработчик (PHP);;;net;3.0;Санкт-Петербург;Аргус-Спектр;PHP, MySQL, CSS, MVC, Laravel, JavaScript, PostgreSQL, Windows Server, Shell;08.06.2026
+Fullstack разработчик;Fullstack программист-разработчик (JavaScript, NodeJS, React);;;;;Москва;ЗАО НПЦ ИРС;Node.js, React, PostgreSQL, Блочная верстка, Разработка ПО, Веб-программирование, SQL, Базы данных, СУБД, REST, Redis, Docker, Инициативность, Ответственность, Деловое общение, JavaScript, TypeScript;09.06.2026
+Fullstack разработчик;Fullstack-разработчик C#;;;;;Москва;Фонд развития промышленности;C#, .NET Framework, JavaScript, VueJS, TypeScript, Atlassian Jira, Atlassian Confluence;07.06.2026
+Fullstack разработчик;Ведущий fullstack разработчик (senior .NET JavaScript);;;;;Москва;ЗАО КонсультантПлюс;JavaScript, .NET Framework;08.06.2026
+Fullstack разработчик;Fullstack Desktop Developer (Cross-platform);220000;250000.0;net;3.0;Москва;Юнитест;;07.06.2026
+Fullstack разработчик;PHP Fullstack разработчик;;;;3.0;Тула;ООО Выберу.ру;HTML5, React, VueJS, PHP, Symfony, Laravel, MS SQL, PostgreSQL, Redis, RabbitMQ;02.06.2026
+Fullstack разработчик;Fullstack разработчик (.NET C#/Angular);;;;3.0;Москва;ООО Лоция;.NET Core, Angular, TDORP;04.06.2026
+Fullstack разработчик;Senior backend (fullstack) разработчик C++;;;;;Москва;ЗАО КонсультантПлюс;;04.06.2026
+Fullstack разработчик;Fullstack-разработчик (Астра Облако);;;;;Москва;Группа компаний Астра;C++, Linux, Git, Bash, JavaScript;03.06.2026
+Fullstack разработчик;Разработчик Fullstack Python/Django;;;;3.0;Москва;АО Компания ТрансТелеКом;REST API, Python, PostgreSQL, Django Framework, JS, Kubernetes, RabbitMQ;03.06.2026
+Fullstack разработчик;FullStack тестировщик (Java) Middle-;;175000.0;gross;;Москва;DCloud;Java, SQL;06.06.2026
+Fullstack разработчик;Fullstack-аналитик;;;;3.0;Москва;ООО ИЦ АЙ-ТЕКО;;04.06.2026
+Fullstack разработчик;Fullstack-разработчик (Node.js);;;;3.0;Москва;RIS group;Node.js, JavaScript, React, PostgreSQL, MongoDB;01.06.2026
+Fullstack разработчик;Senior fullstack-разработчик;;;;;Москва;РБК;PHP, Laravel, VueJS, Gitlab, Kubernetes;01.06.2026
+Fullstack разработчик;Senior fullstack-разработчик (Vue.js, Python);;;;3.0;Москва;МАГНИТ, Розничная сеть. IT;Python, VueJS;03.06.2026
+Fullstack разработчик;Senior Fullstack-разработчик;;;;3.0;Краснодар;ООО 4 пикселя +;Node.js, Python, PHP, VueJS, React;01.06.2026
+Fullstack разработчик;FullStack Разработчик (С++, Qt);;;;3.0;Москва;Star-Staff;C++, Qt, Linux, PostgreSQL;02.06.2026
+Fullstack разработчик;Fullstack-Разработчик Typescript (офис);;;;3.0;Казань;АО ИНКОМСИСТЕМ, НИЦ;Node.js, TypeScript, JavaScript, React, Git, Next.js, Electron;02.06.2026
+Fullstack разработчик;Javascript fullstack (React. js, Node. js) разработчик;120000;200000.0;net;;Москва;АО Медиа Эффект;JavaScript, Node.js, MySQL, Git, React, PostgreSQL;04.06.2026
+Fullstack разработчик;Fullstack-разработчик;;;;3.0;Воронеж;InternetWeb;Node.js, PHP, Golang, Grafana, SWIFT Alliance, Yii, Linux, Puppet, Нейронные сети, Docker-compose, Docker, PHP7;29.05.2026
+Fullstack разработчик;Fullstack-разработчик;100000;;net;;Омск;DATAFOOD;PHP, Git, VueJS, Laravel, MySQL, PostgreSQL, TypeScript, Redis, Apache Kafka, RabbitMQ, Docker, Docker-compose;29.05.2026
+Fullstack разработчик;Fullstack-разработчик;200000;;net;3.0;Барнаул;ГлавПро Федеральный институт повышения квалификации;PHP, MySQL, HTML, REST API, Laravel, React, SOLID, DDD, PHPUnit, SaaS;17.05.2026
+Fullstack разработчик;Senior Fullstack Developer/ Team Lead;;;;;Москва;Clear Mind;;29.05.2026
+Fullstack разработчик;Middle fullstack-разработчик (JS/TS и PHP/Python);;;;3.0;Казань;FIX;JavaScript, PHP, MongoDB, PostgreSQL, TypeScript, Docker, Atlassian Jira, Atlassian Confluence, Python;29.05.2026
+Fullstack разработчик;Fullstack аналитик ERP (MS Axapta / Navision);;;;3.0;Москва;MERLION TECH;ERP, MS Dynamics NAV, MS Navision, Navision, AXAPTA, MS Axapta, SQL, Постановка задач разработчикам;02.06.2026
+Fullstack разработчик;Middle Fullstack Developer;;;;3.0;Москва;ООО Буханка;JavaScript, Node.js, MongoDB, VueJS, Docker, 1С: Управление Торговлей, REST API;25.05.2026
+Fullstack разработчик;Fullstack разработчик (WordPress);;;;3.0;Москва;TecHuntr;Wordpress, PHP, JavaScript, HTML, MySQL, CSS;20.05.2026
+Fullstack разработчик;Fullstack QA Java специалист (Fintech, уровень Junior/ Middle–);;175000.0;net;;Ростов-на-Дону;DCloud;;03.06.2026
+Fullstack разработчик;Fullstack-разработчик лабораторной информационной системы;;;;3.0;Москва;ФГБУ ЦСП ФМБА России;JavaScript, Python;25.05.2026
+Fullstack разработчик;Fullstack-разработчик (Techlead);;;;;Ижевск;Directum;C#, SQL, .NET Core, TypeScript;20.05.2026
+Fullstack разработчик;Ведущий fullstack-аналитик;350000;400000.0;gross;;Москва;RedLab;Аналитическое мышление, BPMN, UML, Анализ бизнес-процессов, Системный анализ;29.05.2026
+Fullstack разработчик;Junior+ Fullstack разработчик в B2B SaaS;;;;;Ульяновск;Flow Medium;TypeScript, React, GitHub, Английский — A2 — Элементарный;28.05.2026
+Fullstack разработчик;Fullstack Developer;;;;;Москва;ООО Студия Олега Чулакова;JavaScript, React, Claude, Node.js;20.05.2026
+Fullstack разработчик;Senior Fullstack Developer (.NET / React);;;;3.0;Москва;ООО Информационные Системы в Здравоохранении;JavaScript, PostgreSQL, Linux, .NET Framework, .NET Core, React, С#;28.05.2026
+Fullstack разработчик;Fullstack-разработчик (.Net/React);;150000.0;gross;;Москва;DDPlanet;;22.05.2026
+Fullstack разработчик;Fullstack-разработчик;;;;;Астрахань;ООО «АйСиЭл Сервисез» (Москва);;14.05.2026
+Fullstack разработчик;Fullstack-разработчик;;;;3.0;Москва;ООО Ростелеком Информационные Технологии;;14.05.2026
+Fullstack разработчик;Fullstack разработчик;100000;;net;;Пермь;Love.ru;Git, PHP, PostgreSQL, JS;14.05.2026
+Fullstack разработчик;Fullstack-разработчик;;;;3.0;Москва;iConText Group;;13.05.2026
+Fullstack разработчик;FullStack разработчик (Bitrix);200000;210000.0;net;3.0;Санкт-Петербург;FINNTRAIL (ООО Финэкип);PHP, JavaScript, Git, Node.js, HTML, jQuery, Битрикс24, API;18.05.2026
+Fullstack разработчик;Fullstack программист-разработчик;250000;;net;3.0;Москва;ООО Хайвэй Медиа;;18.05.2026
+Fullstack разработчик;Fullstack Golang Developer (Middle);150000;200000.0;net;3.0;Казань;Пигалев Дмитрий Евгеньвич;Golang, PostgreSQL, Docker, React, TypeScript, JWT, Swagger;19.05.2026
+Fullstack разработчик;QA Инженер (Auto\Fullstack);;;;3.0;Москва;Сбер. IT;;19.05.2026
+Fullstack разработчик;Fullstack-разработчик (React + Python/FastAPI) — AI Agents Platform;150000;;net;3.0;Санкт-Петербург;ООО Овелфиш;React, TypeScript, Python, FastAPI, PostgreSQL, ORM, REST API, HTML5, CRM, SQLAlchemy;14.05.2026
+Fullstack разработчик;PHP Developer / Laravel Developer / Fullstack PHP + Vue.js;150000;250000.0;net;3.0;Москва;ИП Кляшторный Андрей Владиславович;PHP, Laravel, MySQL, VueJS, JavaScript, Git, REST API, ООП, SOLID, MVC, SQL, Redis, Docker, Linux, Nginx, Telegram, API;24.05.2026
+Fullstack разработчик;Middle Fullstack Developer (Shopify + WordPress);150000;;gross;;Москва;ООО HAAS PLATFORM;Shopify, Wordpress, CRM, API, HTML, CSS, Liquid, WooCommerce, SCSS, Английский — B1 — Средний;12.05.2026
+Fullstack разработчик;Senior QA Engineer (Fullstack);;262500.0;gross;3.0;Москва;Romantic lines LP;Smoke-тестирование, REST API, TestRail, MySQL, Atlassian Jira, Postman, Java, Selenium, Gitlab;15.05.2026
+Fullstack разработчик;Системный аналитик (Senior fullstack);;;;3.0;Москва;ООО Раппорто;HTTP, REST API, JSON, SQL, BPMN;15.05.2026
+Fullstack разработчик;Middle Fullstack C# Developer;200000;230000.0;net;3.0;Москва;ООО Смарт Мил Сервис;C#, Entity Framework, .NET Core, Git, gRPC, REST API, LINQ, PostgreSQL, SOLID, ООП, WPF;14.05.2026
+Fullstack разработчик;Senior Backend / Fullstack Developer (CRM + API + вычислительная логика);;;;;Москва;Моложин Матвей Евгеньевич;PostgreSQL, REST API, Docker, Redis, RabbitMQ, Node.js, SQL, Git, Linux, Работа с базами данных, Базы данных, Аналитическое мышление, Разработка технических заданий;17.05.2026
+Системный аналитик;Системный аналитик;230000;250000.0;net;3.0;Москва;ABCstaff;;09.06.2026
+Системный аналитик;Системный аналитик;;;;3.0;Москва;Security Vision;UML, BPMN, Системный анализ, Моделирование бизнес процессов, Разработка технических заданий, UC, US, Разработка функциональных моделей, Ревью тест-кейсов, Сбор и формализация, аналитика, ERD, методологии, Разработка ПО, Информационная безопасность;09.06.2026
+Системный аналитик;Системный аналитик;;;;;Москва;ФГБУ ГИВЦ Минкультуры России;SQL, PostgreSQL, IDEF, UML, BPMN, Camunda, MS Excel;09.06.2026
+Системный аналитик;Системный аналитик;;;;3.0;Москва;ООО МФК ВЭББАНКИР;;09.06.2026
+Системный аналитик;Системный аналитик;;;;3.0;Москва;ООО Colvir Software Solutions;Системный анализ, Аналитическое мышление, BPMN, Camunda, ORACLE, PostgreSQL;09.06.2026
+Системный аналитик;Системный аналитик;;250000.0;gross;3.0;Москва;ООО Финтехник;Системный анализ;09.06.2026
+Системный аналитик;Системный аналитик;180000;300000.0;net;;Москва;Клируэй Текнолоджис;Системный анализ, Agile, Scrum, UML, BPMN, IDEF, REST API, SOAP, SQL, Zabbix, Prometheus, Английский — B2 — Средне-продвинутый;09.06.2026
+Системный аналитик;Системный аналитик / Бизнес-аналитик;;200000.0;net;3.0;Москва;ООО Адакта;Системный анализ, Бизнес-анализ, Страхование, Информационные технологии, JavaScript, SQL, Английский язык, Андеррайтинг, Актуарные расчеты, Системная интеграция, Английский — B1 — Средний;09.06.2026
+Системный аналитик;Системный аналитик;;;;3.0;Москва;R-Style Softlab (Эр-Стайл Софтлаб);Jira, SQL, Figma, Postman, PlantUML, Camunda, Bizagi, Постановка задач разработчикам;09.06.2026
+Системный аналитик;Системный аналитик;;;;;Москва;МойСклад;REST API, BPMN, UML, JSON API, Системный анализ;09.06.2026
+Системный аналитик;Системный аналитик;;;;;Москва;ООО Сорб групп;SQL, Системный анализ, ГОСТ 34, JSON API, PostgreSQL, Постановка задач разработчикам, Atlassian Jira, Atlassian Confluence;09.06.2026
+Системный аналитик;Системный аналитик;260000;;gross;3.0;Санкт-Петербург;АО Аркадия;BPMN, SQL, PostgreSQL, JSON, XML, Atlassian Jira, Postman;09.06.2026
+Системный аналитик;Системный / Продуктовый аналитик;;;;;Санкт-Петербург;Altenar;Системный анализ, Анализ требований, Английский язык, Английский — B2 — Средне-продвинутый;09.06.2026
+Системный аналитик;Системный аналитик;;;;;Ростов-на-Дону;Т-Банк. ИТ. Аналитика;UML, Системный анализ, BPMN, SQL, REST, REST API;09.06.2026
+Системный аналитик;Системный аналитик;;;;;Екатеринбург;ПАО КБ Уральский банк реконструкции и развития (УБРиР);SQL, СУБД, SAP CRM, BPMN/UML, API, Postman;09.06.2026
+Системный аналитик;Системный аналитик;;;;;Москва;ООО СберМедИИ;Системный анализ, Техническая документация, REST API, JSON API, MedTech;09.06.2026
+Системный аналитик;Ведущий системный аналитик;;;;;Москва;ПАО Московская Биржа;;09.06.2026
+Системный аналитик;Системный аналитик;;;;;Москва;Цифровой аудит;;08.06.2026
+Системный аналитик;Системный аналитик;;;;;Нижний Новгород;Лига Цифровой Экономики;;08.06.2026
+Системный аналитик;Системный аналитик;;;;;Екатеринбург;ООО 42;Atlassian Jira, Atlassian Confluence, Деловая коммуникация, JSON API, Draw.io, Confluence, Анализ данных, BPMN, UML, Postman, REST, SQL, MS Excel, ГОСТ 34;08.06.2026
+Системный аналитик;Системный аналитик (Middle / Middle+ / Senior);;;;3.0;Тюмень;CRT;Системный анализ, Бизнес-анализ, Сбор и формализация требований, SQL, BPMN, UML, REST API, Use case, User Story;09.06.2026
+Системный аналитик;Системный аналитик (LLM, NLP, RAG, AI-агенты);;;;3.0;Москва;Diasoft;RAG, MCP, SGLang, Python, Go, Системный анализ, QWEN;09.06.2026
+Системный аналитик;Старший системный аналитик ELMA365;;;;3.0;Москва;РТК-ЦОД;;09.06.2026
+Системный аналитик;Системный аналитик;;;;;Новосибирск;Ангиофарм;;08.06.2026
+Системный аналитик;Ведущий системный аналитик (развитие АБС ЦФТ-Банк, ИБСО);;;;;Новосибирск;АО Азиатско-Тихоокеанский Банк;Разработка бизнес-требований, Анализ АБС, BPMN, JSON API, UML, XML, REST, SOAP, Анализ требований, Разработка функциональных требований, Разработка технических заданий;09.06.2026
+Системный аналитик;Системный аналитик;;;;3.0;Санкт-Петербург;ООО МЭДИКС.ТЕХ;Системный анализ, Бизнес-анализ, Сбор требований, Английский — B2 — Средне-продвинутый;08.06.2026
+Системный аналитик;Senior System Analyst (Системный Аналитик);;;;;Москва;ИП Казарьянц Артур Эдуардович;BPMN, UML, API, XML, SQL, Postman;08.06.2026
+Системный аналитик;Младший системный аналитик департамента ИТ;;;;;Москва;Красное & Белое, розничная сеть;Разработка инструкций, Разработка технических заданий, Тестирование разработок, Взаимодействие с разработчиками 1С;09.06.2026
+Системный аналитик;Системный аналитик (сетевые технологии);;;;;Санкт-Петербург;ООО Датаджайл;Информационная безопасность, Проектирование ЛВС;08.06.2026
+Системный аналитик;Аналитик данных;;;;;Санкт-Петербург;ООО Бэйби Опт Груп;Power BI, Исследовательский анализ данных, Математическая статистика, MS Excel, Формирование аналитической отчетности, SQL;09.06.2026
+Системный аналитик;Системный аналитик 1С: ERP;;;;3.0;Долгопрудный;ПАО ДНПП;;08.06.2026
+Системный аналитик;Бизнес-аналитик (финансы);250000;;net;;Москва;ROSSKO;;09.06.2026
+Системный аналитик;Системный аналитик 1С: Зарплата и управление персоналом (ЗУП);;;;;Челябинск;Красное & Белое, розничная сеть;1С: Зарплата и управление персоналом, Системный анализ, Оптимизация бизнес-процессов, Автоматизация, Разработка инструкций, Постановка задач разработчикам, Техническое задание, Моделирование бизнес процессов;09.06.2026
+Системный аналитик;Системный аналитик 1С ERP;;;;3.0;Казань;АЗС ИРБИС;;08.06.2026
+Системный аналитик;Системный аналитик 1С (Казначейство);;;;3.0;Москва;ПИК-специализированный застройщик. ПИК;1С, 1С: Предприятие, Системный анализ;08.06.2026
+Системный аналитик;Системный аналитик 1С: Зарплата и управление персоналом (ЗУП);;;;;Москва;Красное & Белое, розничная сеть;1С: Зарплата и управление персоналом, Системный анализ, Оптимизация бизнес-процессов, Автоматизация, Разработка инструкций, Постановка задач разработчикам, Техническое задание, Моделирование бизнес процессов;09.06.2026
+Системный аналитик;Эксперт Системный аналитик (развитие команды);;;;3.0;Рыбинск;BIV;Системный анализ, UML, BPMN, Руководство коллективом;08.06.2026
+Системный аналитик;Системный аналитик 1С: Зарплата и управление персоналом (ЗУП);;;;;Краснодар;Красное & Белое, розничная сеть;1С: Зарплата и управление персоналом, Системный анализ, Оптимизация бизнес-процессов, Автоматизация, Разработка инструкций, Постановка задач разработчикам, Техническое задание, Моделирование бизнес процессов;09.06.2026
+Системный аналитик;Системный аналитик;;;;;Москва;ООО ФАКЕЛ;;05.06.2026
+Системный аналитик;Системный аналитик;170000;;net;3.0;Москва;Форум-Авто;Kibana, Elasticsearch, Grafana, Linux, REST, SOAP, Swagger;05.06.2026
+Системный аналитик;Системный аналитик;;;;3.0;Москва;Сбер. IT;;05.06.2026
+Системный аналитик;Продуктовый аналитик;180000;250000.0;net;;Москва;BelkaCar;SQL, Python, Анализ данных, А/В тесты, Математическая статистика;08.06.2026
+Системный аналитик;Системный аналитик;;;;3.0;Москва;Лига Цифровой Экономики;SQL, REST API, Разработка функциональных требований;05.06.2026
+Системный аналитик;Бизнес-аналитик 1С;;;;;Уфа;ООО Створ;1С-Битрикс, API;09.06.2026
+Системный аналитик;Бизнес-аналитик;;;;;Екатеринбург;Монетка, Торговая сеть;;08.06.2026
+Системный аналитик;Бизнес-аналитик;;;;;Казань;ГК ICL;UML, ГОСТ, IDEF0, Постановка задач разработчикам;08.06.2026
+Системный аналитик;Бизнес-аналитик в команду сопровождения банковских процессов;;;;3.0;Москва;АО Банк ДОМ.РФ IT;;09.06.2026
+Системный аналитик;Системный аналитик (Банки);;;;;Москва;Decart IT-production;Системный анализ, Анализ данных, SQL, BPMN, UML;05.06.2026
+Системный аналитик;Системный аналитик(RLM);;;;;Москва;Сбер. IT;;05.06.2026
+Системный аналитик;Аналитик данных маркетплейсов;80000;;net;;Москва;SCorp;Python, Аналитическое мышление;08.06.2026
+Системный аналитик;Системный аналитик (Градостроительство);;;;;Москва;ГКУ Инфогород;;05.06.2026
+Системный аналитик;Бизнес-аналитик / Руководитель проектов 1С;250000;500000.0;gross;;Ростов-на-Дону;Crystal Systems;;09.06.2026
+Системный аналитик;Бизнес-аналитик 1С:ERP по РСБУ;140000;150000.0;gross;;Казань;АО Агросила;;09.06.2026
+Системный аналитик;Бизнес-аналитик / AI-специалист по внутренним продуктам и автоматизациям (вайбкодинг);120000;200000.0;net;;Москва;ООО АКТИВ СМАРТ;Бизнес-анализ, Автоматизация бизнес-процессов, Аналитическое мышление, Анализ требований, Описание бизнес-процессов, Нейронные сети, ChatGPT, вайбкодинг, Анализ обратной связи, Продуктовые метрики, Power BI, Разработка технических заданий, Управление бэклогом;09.06.2026
+Системный аналитик;Системный аналитик (ученик);60000;;gross;;Санкт-Петербург;Aston;Системный анализ, Бизнес-анализ, MS Excel, Python, Функциональное тестирование, Разработка технических заданий, QA, API, JavaScript, Разработка ПО, Менеджмент;05.06.2026
+Системный аналитик;Системный аналитик / Бизнес аналитик / Full-stack Analyst;;;;3.0;Москва;Терем;1С-Битрикс, JavaScript, Git, CSS, HTML, MySQL, PHP, jQuery, Webpack, Аналитический склад ума, Веб-аналитика, Постановка задач разработчикам, Аналитическое мышление, Аналитика, Системный анализ, ERP-системы на базе 1С, 1С, Bitrix, Битрикс24, Написание технических заданий, Системная интеграция, Разработка технических заданий, Создание конфигурации 1С, Разработка инструкций;05.06.2026
+Системный аналитик;Системный аналитик;;;;3.0;Москва;Корпорация ЭЛАР;SQL, ГОСТ 34, BPMN, UML, User Flow, SOAP, Linux;02.06.2026
+Системный аналитик;Системный аналитик;;250000.0;net;3.0;Санкт-Петербург;ООО Неватех;Веб-аналитика;02.06.2026
+Системный аналитик;Системный аналитик;;;;3.0;Нижний Новгород;IBS;;02.06.2026
+Системный аналитик;Системный аналитик;;;;3.0;Москва;IBS;;02.06.2026
+Системный аналитик;Системный аналитик;;;;3.0;Москва;ООО Лоция;SQL, Микросервисная архитектура, BPMN, UML, REST API, PostgreSQL;02.06.2026
+Системный аналитик;Системный аналитик (Интернет-банк для физических лиц);;;;;Санкт-Петербург;ПАО Банк Санкт-Петербург;UML, BPMN, SQL, Системный анализ, Бизнес-анализ, Swagger, User Story, Use case;06.06.2026
+Системный аналитик;Системный аналитик;;;;3.0;Воронеж;ООО Совкомбанк Технологии;Linux, Spring Boot, Angular, PostgreSQL, REST API, gRPC, JSON, XML;02.06.2026
+Системный аналитик;Системный аналитик;;;;;Омск;Т-Банк. ИТ. Аналитика;;02.06.2026
+Системный аналитик;Системный аналитик;;;;3.0;Москва;ООО Техлидс;Системный анализ, JSON API, PostgreSQL, Agile, Аналитическое мышление, SQL, Разработка пользовательской документации, Управление стейкхолдерами, Atlassian Confluence, User Story, Анализ требований, BPMN, Use case, UML, Разработка бизнес-требований, Постановка задач разработчикам;02.06.2026
+Системный аналитик;Системный аналитик;;220000.0;net;;Ижевск;Iconicompany;SQL, Системный анализ, Управление информационной безопасностью, Управление бэклогом, Управление требованиями;01.06.2026
+Системный аналитик;Системный аналитик;;;;;Москва;Fix Price. IT;SQL, Системный анализ, UML, PlantUML;01.06.2026
+Системный аналитик;Системный аналитик;;;;3.0;Москва;Сбер. IT;;01.06.2026
+Системный аналитик;Системный аналитик;;150000.0;gross;;Москва;DDPlanet;Анализ данных, Информационные технологии, Оптимизация бизнес-процессов, Аналитические исследования, Аналитика, Системный подход;01.06.2026
+Системный аналитик;Системный аналитик;;;;3.0;Москва;ГКУ Инфогород;Apache Kafka, Camunda, REST API, MS SQL, BPMN, UML, Use case;01.06.2026
+Системный аналитик;Системный аналитик;;;;;Москва;Правительство Москвы;BPMN, UML, DFD, IDEF, ГОСТ 19, ГОСТ 34, SQL, Atlassian Confluence, Atlassian Jira;01.06.2026
+Системный аналитик;Системный аналитик;;;;;Челябинск;АО ЧЭМК;Разработка функциональных требований;01.06.2026
+Системный аналитик;Бизнес-аналитик в Отдел автоматизации управления персоналом;;;;3.0;Москва;RWB (Wildberries & Russ);;08.06.2026
+Системный аналитик;Системный аналитик в команду карточных продуктов;;;;;Москва;АО Банк ДОМ.РФ IT;;05.06.2026
+Системный аналитик;Продуктовый аналитик, Личный кабинет Озон Доставка;;;;3.0;Москва;Ozon Tech;Системный анализ, Бизнес-анализ, Сбор требований, REST API, Apache Kafka, gRPC, PostgreSQL, BPMN, UML, Постановка задач разработчикам;08.06.2026
+Системный аналитик;Ведущий системный аналитик;;;;3.0;Санкт-Петербург;ООО Датаджайл;BPMN, MS SQL, UML, Разработка технических заданий, Бизнес-анализ;01.06.2026
+Системный аналитик;Системный аналитик (junior);;;;;Сочи;Сбер. IT;;01.06.2026
+Системный аналитик;Аналитик данных;;;;3.0;Москва;UZUM TECHNOLOGIES. IT;;05.06.2026
+Системный аналитик;Системный аналитик (ГИС МТ «Честный знак»);;180000.0;net;;Москва;Мираторг, Агропромышленный холдинг;;04.06.2026
+Системный аналитик;Старший системный аналитик;;;;3.0;Москва;БФТ-Холдинг;;01.06.2026
+Системный аналитик;Бизнес-аналитик;100000;;net;3.0;Уфа;Группа компаний СКС;Бизнес-анализ, Анализ бизнес-процессов, Системный анализ, Автоматизация бизнес-процессов, Постановка задач разработчикам, Реинжиниринг бизнес-процессов, Power BI, Моделирование бизнес-процессов, Описание бизнес-процессов, Разработка технических заданий, Анализ требований, SQL, Draw.io;05.06.2026
+Системный аналитик;Главный системный аналитик;;;;3.0;Москва;МАГНИТ, Розничная сеть. IT;SQL, Big Data, Python, Apache Airflow, Машинное обучение, Системный анализ;01.06.2026
+Системный аналитик;Системный аналитик (ТБАНК);;;;;Москва;ООО ИЦ АЙ-ТЕКО;;01.06.2026
+Системный аналитик;Системный аналитик (Криптография);;;;3.0;Москва;Bell Integrator;SQL, REST API, Криптография, КриптоПро, Разработка нефункциональных требований, Разработка функциональных требований;01.06.2026
+Системный аналитик;Senior/middle Системный аналитик;;;;;Новомосковский административный округ;T2. IT и Digital;Бизнес-анализ, Системный анализ, UML, SQL, SOAP, REST, Swagger, Postman;01.06.2026
+Системный аналитик;Системный аналитик;;;;3.0;Москва;Сбер. IT;;28.05.2026
+Системный аналитик;Системный аналитик (направление информационной безопасности);;;;;Москва;Ай-Теко (I-Teco);;02.06.2026
+Системный аналитик;Бизнес-аналитик;;;;3.0;Москва;ЛОКО-БАНК;REST, SQL, SOAP, BPMN;04.06.2026
+Системный аналитик;Системный аналитик (банковские продукты);;;;3.0;Москва;ПАО Банк ПСБ, ИТ;;01.06.2026
+Системный аналитик;Системный аналитик (Middle);150000;;net;;Москва;TechSearch;SQL, JSON, XML, REST API, UML, BPMN, Swagger, OpenAPI, Системный анализ, Интеграции, Микросервисная архитектура, Atlassian Jira, Atlassian Confluence;30.05.2026
+Системный аналитик;Бизнес аналитик;200000;;net;3.0;Москва;РКС Девелопмент;;04.06.2026
+Системный аналитик;Бизнес-аналитик;;;;3.0;Москва;ООО Комита Цифровые Технологии;;04.06.2026
+Системный аналитик;Системный аналитик (Global Markets Order Management System);;;;3.0;Москва;Сбер. IT;REST API, Apache Kafka;03.06.2026
+Системный аналитик;Бизнес-аналитик;;;;3.0;Москва;Cмарт Горизонт (Smart Tech Group);;03.06.2026
+Системный аналитик;Системный аналитик / бизнес аналитик;;;;3.0;Санкт-Петербург;Пивоварни Бочкарев;;28.05.2026
+Системный аналитик;Системный аналитик;;;;3.0;Москва;Ингосстрах;Разработка технических заданий;25.05.2026
+Системный аналитик;Системный аналитик;;;;3.0;деревня Путилково;ООО МФК ВЭББАНКИР;Системный анализ, SQL, BPMN, JSON API, RabbitMQ;25.05.2026
+Системный аналитик;Системный аналитик;;;;3.0;Москва;ООО Цифролаб;BPMN, UML, Системная интеграция, Документирование бизнес-требований, Atlassian Confluence, Atlassian Jira, Системный анализ, Power BI, Разработка функциональных требований;25.05.2026
+Системный аналитик;Fullstack - аналитик (Бизнес/системный аналитик);;;;3.0;Москва;ООО Платежное Решение;;29.05.2026
+Системный аналитик;BI-аналитик/Аналитик данных;;;;;Владимир;ООО ЭлРос;Power BI, Анализ данных, Аналитическое мышление, Бизнес-анализ, Работа с базами данных, Работа с большим объемом информации, Аналитика, Сбор и анализ информации, PowerBI, Системный анализ;02.06.2026
+Системный аналитик;Старший бизнес-аналитик/Senior аналитик данных (B2B продажи);330000;;gross;3.0;Москва;ООО ВсеИнструменты.ру;Аналитическое мышление, Управление стейкхолдерами, SQL, A/B тесты, Анализ данных, Бизнес-анализ, Анализ бизнес-процессов, MS Excel, Постановка задач разработчикам, Анализ бизнес показателей, OLAP, Unit-экономика;05.06.2026
+Системный аналитик;Бизнес-аналитик на банковский проект;;230000.0;net;3.0;Санкт-Петербург;DCloud;;05.06.2026
+Системный аналитик;Бизнес-аналитик в продукт Мосволонтёр;;;;3.0;Москва;ГКУ Инфогород;;05.06.2026
+Системный аналитик;Системный аналитик (комплексы 1С);;;;3.0;Курган;ООО Восток.Софт;Разработка технических заданий, Постановка задач разработчикам, BPMN, Системный анализ, Бизнес-анализ;30.05.2026
+Системный аналитик;Системный аналитик Middle / Senior;;;;3.0;Москва;Альфа-Банк;Системный анализ;28.05.2026
+Системный аналитик;Системный аналитик Middle / Senior;;;;3.0;Санкт-Петербург;Альфа-Банк;;28.05.2026
+Системный аналитик;Старший системный аналитик;;;;;Москва;РТЛабс;;26.05.2026
+Системный аналитик;Системный аналитик-разработчик в команду Продукты бэк-офиса;;;;3.0;Москва;АО Банк ДОМ.РФ IT;;01.06.2026
+Системный аналитик;Системный аналитик (мобильное приложение);;;;3.0;Москва;РТЛабс;;28.05.2026
+Системный аналитик;Бизнес-аналитик (строительные проекты);;;;3.0;Санкт-Петербург;Холдинг ТИТАН2;;04.06.2026
+Системный аналитик;Бизнес-аналитик;;;;3.0;Москва;NOVAROLL;Бизнес-анализ, Аналитическое мышление, Стратегическое планирование, ERP-системы на базе 1С, SQL, Power BI;22.05.2026
+Системный аналитик;Системный аналитик Directum;;;;3.0;Санкт-Петербург;IBS;Directum;12.05.2026
+Системный аналитик;Системный аналитик 1С;;;;3.0;Москва;Газпромбанк;;15.05.2026
+Системный аналитик;Аналитик данных;;;;;Санкт-Петербург;ПАО Банк Санкт-Петербург;SQL, Python, Apache Airflow, Анализ данных, Визуализация данных, Power BI, Data Mining, QlikView, Аналитическое мышление, Flask, Django Framework, A/B тесты, Ad Hoc Analysis, Spark, DBeaver;14.05.2026
+Системный аналитик;Старший системный аналитик;;;;3.0;Москва;ООО Сбер2B;;12.05.2026
+Системный аналитик;Системный аналитик;;;;3.0;Москва;Полюс;SQL, Python, Микросервисная архитектура;14.05.2026
+Системный аналитик;Главный системный аналитик (кредитные карты);;;;3.0;Москва;Сбер. IT;;14.05.2026
+Системный аналитик;Системный аналитик;;;;3.0;Санкт-Петербург;ПАО «Газпром нефть» ИТ;;12.05.2026
+Системный аналитик;Аналитик данных;220000;260000.0;net;3.0;Москва;Jobers;;13.05.2026
+Системный аналитик;Системный аналитик/Бизнес-аналитик;150000;;net;;Москва;Аптечная сеть Ваша №1 х Таблетка.ру;;22.05.2026
+Системный аналитик;Системный аналитик;;;;;Рязань;Сбер. IT;;18.05.2026
+Системный аналитик;Системный Аналитик (ИТ-подразделение);;;;3.0;Москва;Страховая группа МАКС;Системный анализ, JSON API;25.05.2026
+Системный аналитик;Системный аналитик;;;;;Москва;Ситуационно-Информационный Центр Министерства Транспорта Российской Федерации;;18.05.2026
+Системный аналитик;Системный аналитик 1С (финансовый блок);;;;3.0;Санкт-Петербург;Melon Fashion Group. IT;Разработка технических заданий, Постановка задач разработчикам, Моделирование бизнес процессов, 1С, Анализ бизнес-процессов, Описание бизнес-процессов, Техническое задание, Аналитические навыки;28.05.2026
+Системный аналитик;Системный аналитик;50000;;gross;;Саратов;ООО ГИТ;;18.05.2026
+Системный аналитик;Системный аналитик;;;;;город Новосибирск;ООО «Предприятие «ЭЛТЕКС»;UML, BPMN, Linux, Системная аналитика, Техническая документация, Бизнес-аналитика;18.05.2026
+Системный аналитик;Системный аналитик;;;;3.0;Москва;Bell Integrator Регионы;;18.05.2026
+Системный аналитик;Системный аналитик (инфраструктурные проекты);;;;;Москва;ПАО Ростелеком;Постановка задач разработчикам;25.05.2026
+Системный аналитик;Системный аналитик Middle/Senior;200000;350000.0;net;3.0;Москва;ИП Трифонов Вячеслав Евгеньевич;SQL, Системный анализ, UML, BPMN, Use case, Постановка задач разработчикам, JSON API, REST API, PlantUML, PostgreSQL, Микросервисная архитектура, Swagger, Agile, User Story, JSON, Postman, API, REST, XML;25.05.2026
+Системный аналитик;Системный аналитик;;;;3.0;Москва;Ригла;;18.05.2026
+Системный аналитик;Главный системный аналитик (Казначейство);;;;3.0;Москва;Альфа-Банк. ИТ-специалисты;Системный анализ, SOAP, Postman, Аналитическое мышление, Анализ требований, Постановка задач разработчикам;25.05.2026
+Системный аналитик;Системный аналитик (Машиностроительная отрасль);;;;3.0;Москва;АО СИ ЭС Групп;BPMN, ERP, MES-системы, WMS, Технологии машиностроения и приборостроения, Системная интеграция;25.05.2026
+Системный аналитик;Системный аналитик 1C;;;net;;Красноярск;Командор;;25.05.2026
+Системный аналитик;Системный аналитик 1С;;;;;Москва;ФГАОУ ВО МГТУ им. Н.Э. Баумана;;25.05.2026
+Системный аналитик;Системный аналитик (IT) / System analyst;;;;3.0;Переславль-Залесский;it-aces.com;;20.05.2026
+Системный аналитик;Системный аналитик в HR Tech;;;;3.0;Москва;RWB (Wildberries & Russ);;25.05.2026
+Системный аналитик;Аналитик данных;;;;;Москва;Dau Relationship Marketing;аналитика, A/B тесты, SQL, CRM, Python, Автоматизация;29.05.2026
+Системный аналитик;Системный аналитик 1С:ERP;130000;180000.0;net;3.0;Санкт-Петербург;АО ЗАСЛОН;1С:ERP, 1C: Зарплата и кадры, Постановка задач разработчикам, Разработка технических заданий, Системный анализ, Бухгалтерский учет;25.05.2026
+Системный аналитик;Бизнес-аналитик;;;;3.0;Москва;Сбер для экспертов;;29.05.2026
+Системный аналитик;Младший системный аналитик;;;;;Москва;ООО Фаззи Лоджик Лабс;SQL, Postman, SOAP, REST, UML, BPMN, Use case, SoapUI;20.05.2026
+Системный аналитик;Системный аналитик (реестровые системы);200000;;net;3.0;Москва;ИП Нестерова Екатерина Эдуардовна;Use case, UML, BPMN, Постановка задач разработчикам, Работа с базами данных;23.05.2026
+Системный аналитик;Старший продуктовый аналитик, Группа продукта Заказы в ЛК покупателя;;;;3.0;Москва;Ozon Tech;Системный анализ, Бизнес-анализ, Сбор требований, REST API, Apache Kafka, gRPC, PostgreSQL, UML, BPMN, Постановка задач разработчикам, IT, Торговая площадка;04.06.2026
+Системный аналитик;Бизнес-аналитик;83400;;gross;;Нижний Новгород;Сбер. IT;;28.05.2026
+Системный аналитик;Системный аналитик;;;;3.0;Москва;АО ГК Орбита;;13.05.2026
+Системный аналитик;Системный Аналитик;;;;3.0;Москва;АО Зарубежнефть;;13.05.2026
+Системный аналитик;Аналитик данных в стартап;110000;;net;;Москва;HR Point Plus (ИП Цветкова Анастасия Михайловна);Аналитическое мышление, SQL, Работа с большим объемом информации, Визуализация данных, Power BI, A/B тесты, MS Excel, Google Sheets, Python, Маркетинговые метрики, Анализ данных, Продуктовая аналитика, Формирование гипотез, Сводные таблицы, Системное мышление;01.06.2026
+Системный аналитик;Аналитик данных / BI-аналитик;;;;3.0;Москва;OFFPRICE;Бизнес-анализ, Бизнес-планирование, Аналитическое мышление, Olap (online analytical processing), Стратегическое мышление;28.05.2026
+Системный аналитик;Системный аналитик (senior);300000;400000.0;net;;Москва;Selecty;SQL, Системный анализ, UML, PostgreSQL, JSON API, MS SQL Server, BPMN, Atlassian Jira, SOA, User Story, Use case, Atlassian Confluence, Agile, API, SOAP, JSON, REST API, XML, Микросервисная архитектура;18.05.2026
+Системный аналитик;Системный аналитик (Финтех);;;;3.0;Москва;1PAYMENT;Системный анализ, Бизнес-анализ, Docker, PostgreSQL, JSON API, API, REST API, BPMN, UML;18.05.2026
+Системный аналитик;Системный аналитик/Аналитик 1С;;;;3.0;Ижевск;Фармаимпекс;;18.05.2026
+Системный аналитик;Системный аналитик | Senior System Analyst;300000;340000.0;net;;Екатеринбург;Юмнико;Системный анализ, Java, Аналитическое мышление, Описание бизнес-процессов, Разработка функциональных требований, Техническая документация, Постановка задач разработчикам, Английский — B1 — Средний;15.05.2026
+Системный аналитик;Бизнес Аналитик Интеллектуальных Транспортных Систем;150000;200000.0;gross;3.0;Санкт-Петербург;Елисеенко Анна Евгеньевна;Системный аналитик, Веб-аналитика, Моделирование процессов, Моделирование бизнес-процессов, ГИС, GIS, Разработка пользовательской документации, REST API, Разработка технических заданий, Моделирование, Сбор требований, Постановка задач разработчикам, Управление требованиями, Анализ требований, Сбор и анализ информации, Разработка проектной документации, Разработка документации, Бизнес Аналитик, Менеджмент качества, Спецификация требований, AS IS/TO BE mapping, BPMN, DFD, C4, Figma, Miro, Draw.io, Atlassian Jira, Atlassian Confluence, YouTrack;01.06.2026
+Системный аналитик;Бизнес-аналитик;;;;;Москва;ИП Беляева Анастасия Александровна;Бизнес-анализ, Стратегическое планирование, Use case, User Story, Agile, Scrum, Описание бизнес-процессов, Системное мышление;26.05.2026
+Системный аналитик;Системный аналитик (радиолокационные системы);;;;3.0;Санкт-Петербург;Myrtle;;19.05.2026
+Системный аналитик;Ведущий системный аналитик (BPMSoft);;;;;Москва;СберЛизинг;;19.05.2026
+Системный аналитик;Системный аналитик (Tantor DI);;;;3.0;Москва;Группа компаний Астра;СУБД, Apache Kafka, ETL, CDC, PostgreSQL, Debezium, Sphinx, REST, REST API, Хранилище данных, ELT;19.05.2026
+Системный аналитик;Ведущий системный аналитик / Архитектор ИС (AI-интеграции);81000;;gross;3.0;Владивосток;КГКУ Информационно-технологический центр Приморского края;;25.05.2026
+Системный аналитик;Младший системный аналитик TOS;;;;;Москва;TKV Group;;19.05.2026
+Системный аналитик;Бизнес/системный аналитик (Fullstack);;;;3.0;Екатеринбург;АО ИТ-Элемент29;SQL, DWH, API, Сбор требований;19.05.2026
+Системный аналитик;Аналитик данных;;250000.0;net;3.0;Санкт-Петербург;Enjoypro;Hadoop, Clickhouse, Greenplum, Apache Airflow, Apache Spark, Apache Kafka, Системный анализ, DWH, Data Analysis, SQL, ETL, Agile, Kanban, Scrum;25.05.2026
+Системный аналитик;Аналитик данных (Секьюритизация и управление капиталом);;;;3.0;Москва;Т-Банк. Другое;;01.06.2026
+Системный аналитик;Аналитик данных;;;;3.0;Химки;ББР Банк;SQL, Системный анализ, Анализ требований, PostgreSQL;25.05.2026
+Системный аналитик;Главный аналитик данных;;;;3.0;Москва;Контроль Москвы;SQL, Аналитическое мышление, Анализ бизнес-процессов, Системный анализ, Бизнес-анализ, Моделирование бизнес-процессов, Figma, Разработка функциональных требований, Python, Atlassian Jira, Atlassian Confluence, Draw.io;28.05.2026
+Системный аналитик;Ведущий системный аналитик;;;;3.0;Москва;СберСпасибо;;13.05.2026
+Системный аналитик;Middle+ Аналитик данных;;210000.0;net;3.0;Москва;ООО ИЦ АЙ-ТЕКО;;28.05.2026
+Системный аналитик;Аналитик данных;;;;;Москва;ООО А7-Агент;;25.05.2026
+Системный аналитик;Бизнес-аналитик BI;;;gross;3.0;Москва;ООО Объединенные кондитеры;Бизнес-анализ;28.05.2026
+Системный аналитик;Системный аналитик GigaChat;;;;3.0;Москва;Сбер. IT;;13.05.2026
+Системный аналитик;Ведущий системный аналитик 1С (продажи);;;;3.0;Москва;ООО ПУЛЬС АЙТИМ;консоль запросов 1С, BPMN, UML, Постановка задач разработчикам, Анализ бизнес-процессов, Сбор требований;19.05.2026
+Системный аналитик;Бизнес-аналитик (цифровой рубль);;;;3.0;Москва;Сбер для экспертов;;28.05.2026
+Системный аналитик;Продуктовый менеджер/ Бизнес-аналитик;;;;;Москва;Сбер для экспертов;;28.05.2026
+Системный аналитик;Старший бизнес-аналитик;;;;3.0;Москва;ООО Лоция;Бизнес-анализ, Импортозамещение, BPMN, Анализ бизнес-процессов, Моделирование бизнес-процессов, Оптимизация бизнес-процессов;26.05.2026
+Системный аналитик;Бизнес-аналитик (BI-разработчик);;;gross;3.0;Рязань;ООО СПЕКТР;;27.05.2026
+Системный аналитик;Главный системный аналитик (кредитные карты);;;;3.0;Москва;Сбер. IT;;14.05.2026
+Системный аналитик;Бизнес-аналитик (ИТ направление);;;;;Москва;ПАО Ростелеком;Бизнес-анализ, Стратегическое планирование, BPMN, User Story, Acceptance criteria;27.05.2026
+Системный аналитик;Ведущий бизнес/системный аналитик (офис);350000;400000.0;gross;;Москва;Selecty;;14.05.2026
+Системный аналитик;Системный аналитик для разработки ИИ-агентов (SberНадежность);;;;;Москва;Сбер. IT;;18.05.2026
+Системный аналитик;Системный аналитик (ИТ блок Строительства);;;;3.0;Москва;Сбер. IT;;14.05.2026
+Системный аналитик;Системный аналитик в стрим ОПК (банковские проекты);;;;3.0;Нижний Новгород;Т1 Иннотех;знание специфики банковской деятельности, опыт работы с АБС, REST API, SQL, Системный анализ, BPMN;18.05.2026
+Системный аналитик;Бизнес-аналитик;;;;3.0;Москва;ПАО Ростелеком;Анализ требований, BPMN, Моделирование бизнес-процессов, Бизнес-анализ;20.05.2026
+Системный аналитик;Системный аналитик (РКО Юридических Лиц, бухгалтерский учет);230000;250000.0;net;3.0;Москва;DCloud;;18.05.2026
+Системный аналитик;Старший бизнес-аналитик 1С;;;;3.0;Москва;АО МАЗ «Москвич»;;26.05.2026
+Системный аналитик;Системный аналитик (расчетные счета, депозиты, кредитные карты);;;;;Екатеринбург;ПАО БАНК УРАЛСИБ;SQL, Системный анализ, BPMN, UML, Use case, SOAP, ORACLE, REST API, кредитные карты, депозиты, РКО;14.05.2026
+Системный аналитик;Разработчик (системный аналитик, тестировщик) бортовых алгоритмов управления;;;;;Химки;АО НПО ЛАВОЧКИНА;Алгоритмы и структуры данных, Разработка методики испытаний, Тестирование, Python, C, Разработка ПО, AQA, Автоматизированное тестирование, Написание автотестов;14.05.2026
+DevOps инженер;DevOps-инженер;;200000.0;net;;Москва;ООО ВойсЛинк;Linux, Docker, Python, Kubernetes;10.06.2026
+DevOps инженер;DevOps-инженер;;;;3.0;Москва;АО НПЦ ЭЛВИС;;09.06.2026
+DevOps инженер;Devops;200000;300000.0;gross;;Москва;ООО Инсап;Linux, Docker, Python, Kubernetes, Английский язык, Git, DevOps, Bash, SQL, Внедрение систем информационной безопасности, Vertica;09.06.2026
+DevOps инженер;DevOps-инженер;;;;3.0;Москва;АО Эксперт РА;Python, Bash, Gitlab, Kubernetes, Docker, PostgreSQL, ORACLE, Zabbix, Grafana, Prometheus, VMware, Английский — B2 — Средне-продвинутый;09.06.2026
+DevOps инженер;DevOps инженер;;;;;Киров;АО Коммерческий банк «Хлынов»;;09.06.2026
+DevOps инженер;DevOps-инженер;200000;225000.0;gross;3.0;Москва;DV Group;Linux, Docker, Docker-compose, Kubernetes, Gitlab, CI/CD, Terraform, Ansible, Helm, Python, Bash, Yandex Cloud;09.06.2026
+DevOps инженер;DevOps-инженер;;;;3.0;Москва;АО РНПК;Jenkins, GitLab CI, Ansible, Terraform, Nexus, PostgreSQL, MySQL, Bash, MongoDB, Redis, Linux, Docker, Kubernetes, Prometheus, Grafana, Zabbix, Английский — B1 — Средний;09.06.2026
+DevOps инженер;DevOps-инженер;;;;3.0;Москва;АО Агропромцифра;;09.06.2026
+DevOps инженер;DevOps-инженер;250000;;net;3.0;Москва;Чубатюк Никита Васильевич;Linux, Docker, Grafana, Prometheus, PostgreSQL, Администрирование серверов Linux, KeyCloak, Ansible;09.06.2026
+DevOps инженер;DevOps-инженер;;;;3.0;Санкт-Петербург;ООО Аеза Групп;;09.06.2026
+DevOps инженер;DevOps-инженер;;;;3.0;Ростов-на-Дону;ИТЛ Консалтинг;;09.06.2026
+DevOps инженер;DevOps-инженер;;;;;Москва;Снежная Королева;;09.06.2026
+DevOps инженер;Middle DevOps инженер;;;;3.0;Санкт-Петербург;БАНК РОССИЯ;;09.06.2026
+DevOps инженер;DevOps Engineer (Middle);;;;;Казань;ООО Визум;;09.06.2026
+DevOps инженер;DevOps-инженер (Senior);;;;3.0;городской округ Химки;АО Международный аэропорт Шереметьево;DevOps, CI/CD, Gitlab, Jenkins, SRE Kubernetes, Senior Linux administrator;09.06.2026
+DevOps инженер;DevOps/SRE инженер;;;;;Ростов-на-Дону;ЗАЗЕКС;DevOps, Gitlab, Linux, Docker, Kubernetes, Git, Nginx, Bash, Grafana, Jenkins, Ansible;09.06.2026
+DevOps инженер;Ведущий DevOps-инженер;;;;;Москва;ООО А7-ТЕХНОЛОГИИ;Linux, Docker, Kubernetes, Ansible, Jenkins, Zabbix;09.06.2026
+DevOps инженер;DevOps-инженер (DWH);;;;3.0;Москва;ООО Ит-Финанс;;09.06.2026
+DevOps инженер;Senior DevOps-инженер;;;;3.0;Москва;Ситидрайв;Kubernetes, CI/CD, Ansible, Apache Kafka, Redis, IT;09.06.2026
+DevOps инженер;DevOps инженер (ученик);70000;;gross;;Краснодар;Aston;Linux, IaC, CI/CD, NETWORK, Jenkins, Администрирование серверов Linux, ORACLE, MS SQL, DevOps, Azure, CircleCI, Администрирование, Настройка серверов, Настройка ПО, Настройка сетевых подключений, Локальные сети, Администрирование сетевого оборудования, Сборка ПК, Ответственность, Внимательность, Docker, Bash, Python, Git, Пользователь ПК, Деловое общение, Обучение, Информационные технологии;09.06.2026
+DevOps инженер;Junior DevOps-инженер;80000;100000.0;net;;Москва;ООО Бизнес Совет;Docker, Git;07.06.2026
+DevOps инженер;Middle DevOps-инженер (ML/AI, DevSecOps, MLSecOps);;;;;Москва;ПАО Банк ПСБ, ИТ;DevOps, Docker, CI/CD;08.06.2026
+DevOps инженер;Team Lead DevOps;;;;;Москва;Юрент;Linux, Kubernetes, Управление командой, Teamleading;08.06.2026
+DevOps инженер;DevOps (Avanpost CloudMFA);;;;3.0;Москва;Avanpost;Инженер SRE, DevOps, PostgreSQL, Golang, Kubernetes, Helm, Prometheus, CI/CD, Vault, Istio, Linux, Terraform;08.06.2026
+DevOps инженер;DevOps-инженер в отдел эксплуатации инфраструктуры;;;;3.0;Москва;Московский метрополитен;Kubernetes, Ansible, Docker, Linux, Bash, DevOps;08.06.2026
+DevOps инженер;DevOps / DevSecOps Engineer (проектная работа);;;;;Москва;Printum;GitLab CI;09.06.2026
+DevOps инженер;DevOps-инженер (middle+/senior);;;;;Москва;ООО ОМНИДАТА;Docker, Kubernetes, Gitlab, CI/CD, Helm, DNS, FreeIPA, Keycloak, Grafana, Prometheus, Kafka, RabbitMQ, PostgreSQL, Bash, Python;07.06.2026
+DevOps инженер;DevOps-инженер в подразделение информационной безопасности;;;;;Екатеринбург;ПАО «Газпром нефть» ИТ;Linux, Информационная безопасность, Docker, Kubernetes, PostgreSQL, Unix, Администрирование серверов Linux, Bash, Ansible, DevOps;08.06.2026
+DevOps инженер;DevOps-инженер (Laravel / Docker / Ansible / GitLab CI);;200000.0;net;3.0;Санкт-Петербург;Dataloft;Terraform, Ansible, GitLab CI, Docker, Docker-compose, Linux, Bash, Yandex Cloud, Laravel, MySQL, PostgreSQL, Redis, DevOps, CI/CD;08.06.2026
+DevOps инженер;Старший инженер инфраструктуры и DevOps (GCP, Kubernetes);300000;;gross;3.0;Москва;Amagasa;;08.06.2026
+DevOps инженер;Middle DevOps Engineer (SaaS, e-comm);;;;3.0;Москва;Any;DevOps, CI/CD, Docker, ELK, Gitlab, Apache Kafka, Kubernetes, Prometheus, SQL, Bash, GitLab CI, Terraform, Ansible, HAProxy;08.06.2026
+DevOps инженер;DevOps Engineer (Middle+/Senior);200000;300000.0;net;;Москва;ДЖЕЙКЕТ;Знание алгоритмов, Использование фреймворков, Написание кода, Оптимизация производительности, Проведение тестирования, Работа с базами данных, Разработка архитектуры приложений;07.06.2026
+DevOps инженер;DevOps-инженер;;;;3.0;Железнодорожный  (Московская область);JFoRecruitment;DevOps, CI/CD, 1С, Vanessa Automation, Onescript, oScript, Kubernetes, K8S, Gitlab, Prometheus, Grafana, SonarQube, Nginx, Traefik;05.06.2026
+DevOps инженер;DevOps инженер;;250000.0;gross;3.0;Москва;Data World;;05.06.2026
+DevOps инженер;DevOps-инженер;;;;;Уфа;Группа компаний СКС;Kubernetes, Zabbix, Docker, CI/CD, Prometheus, Grafana, PowerShell, Hyper-V, C#, Точность и внимательность к деталям, Работа с большим объемом информации, 1С, Работа с базами данных, Мониторинг;05.06.2026
+DevOps инженер;DevOps инженер;;;;;Казань;ООО ГИСГИС;;05.06.2026
+DevOps инженер;DevOps-инженер;;;;3.0;Москва;ПАО Московская Биржа;Python, Linux, DevOps, SQL, PostgreSQL;05.06.2026
+DevOps инженер;DevOps-инженер;;487500.0;gross;;Москва;Lenkep recruitment;Zabbix, Grafana, ZTNA, Docker;05.06.2026
+DevOps инженер;DevOps-инженер;;;;;Ижевск;АО ЭДС;DevOps, CI/CD, GitLab CI, Docker, Kubernetes, Ansible, Trivy, Vault, Grafana, Микросервисная архитектура, Harbor, Nexus, Helm, Bash, Python, PowerShell, Terraform;05.06.2026
+DevOps инженер;DevOps-инженер (Middle);179000;253000.0;gross;;Владивосток;DNS Технологии;Kubernetes, Linux, Docker, DevOps, Git, Puppet, Gitlab, Helm, Ansible;03.06.2026
+DevOps инженер;DevOps-инженер;;;;;Москва;T2. IT и Digital;Linux, ELK, K8S, Docker, Ansible;01.06.2026
+DevOps инженер;Инженер по автоматизации процессов разработки (DevOps);;;;3.0;Химки;ББР Банк;Prometheus, Grafana, Loki, OpenTelemetry, vLLM, LangChain, Python, Bash, Docker;05.06.2026
+DevOps инженер;Главный инженер DevOps;;;;3.0;Москва;МАГНИТ, Розничная сеть. IT;Docker, Linux, Kubernetes;02.06.2026
+DevOps инженер;DevOps инженер (SRE);;;;;Краснодар;WILIX;DevOps, Kubernetes, Базы данных, Gitlab, Работа с базами данных, Docker, Python, Bash, Linux, Terraform, Работа с большим объемом информации, Big Data, MS SQL, SQL;02.06.2026
+DevOps инженер;DevOps-инженер в WB ID;;;;;Москва;RWB (Wildberries & Russ);Kubernetes, Linux, DevOps;04.06.2026
+DevOps инженер;DevOps-инженер (офис);;;;3.0;Москва;Криптонит;Linux, Docker, Kubernetes, СУБД, DevOps;02.06.2026
+DevOps инженер;DevOps инженер (Hadoop);;;;3.0;Москва;ООО HeadHunter::Infrastructure engineers;;02.06.2026
+DevOps инженер;Devops инженер (облачные сервисы);;;;3.0;Москва;ЗАО 1С;Linux, DevOps, Docker, Bash, PostgreSQL;03.06.2026
+DevOps инженер;DevOps-инженер (Data Platform);;;;;Москва;edna;Kubernetes, Big Data, Базы данных, Apache Airflow, Spark, Ansible, Terraform, CI/CD, Apache Kafka, ORACLE, PostgreSQL, Redis;03.06.2026
+DevOps инженер;Инженер по инфраструктуре (DevOps);;;;;Москва;ПАО Ростелеком;Linux, Doker, TCP/IP, Astra Linux, CI/CD, VPN, k8s, prometeus, Grafana, LPIC1, CCNA, CCNP;03.06.2026
+DevOps инженер;Middle+ / Senior DevOps-инженер;200000;;gross;;Санкт-Петербург;RedLab;PostgreSQL, SQL, DevOps, Kubernetes, Apache Kafka, RabbitMQ, Docker, Redis, Grafana;03.06.2026
+DevOps инженер;DevOps-инженер (Департамент ML);;;;3.0;Москва;АльфаСтрахование. ИТ;DevOps, Bash, Ansible, Gitlab, Hadoop, Kubernetes;03.06.2026
+DevOps инженер;DevOps инженер;;;;;Пермь;Galileosky;Kubernetes, Gitlab, CI/CD, DevOps;25.05.2026
+DevOps инженер;DevOps / Системный администратор;;60000.0;net;;Рязань;ООО Синьор Софт;Linux, Docker, Bash, Nginx, Настройка DNS, PostgreSQL, DevOps, Администрирование серверов Linux, Zabbix, SQL;01.06.2026
+DevOps инженер;DevOps Engineer (Middle /Senior);200000;;net;3.0;Москва;TechSearch;Java, SQL, Git, Linux, Microservices, RabbitMQ, Kafka, Docker, CI/CD, Spring Boot, Spring Framework, REST API, Apache Maven;30.05.2026
+DevOps инженер;DevOps Engineer;140000;;net;;Москва;Кадровое агентство HireWay;DevOps;25.05.2026
+DevOps инженер;DevOps-инженер (инженер-программист);;;;3.0;Иннополис;СИСТЭМ ЭЛЕКТРИК;;28.05.2026
+DevOps инженер;Senior DevOps Engineer;;;;3.0;Москва;АО Гознак. Информационные технологии;Linux, SQL, Базы данных, PostgreSQL, Docker, Kubernetes, Ansible, DevOps, Git, Terraform, Helm, Prometheus, Grafana;28.05.2026
+DevOps инженер;DevOps Engineer;225000;;net;3.0;Москва;Харанутов Антон Евгеньевич;DevOps, Linux, Nginx, Bash, Английский — B1 — Средний;24.05.2026
+DevOps инженер;Руководитель ИТ-инфраструктуры и DevOps / Head of IT Platform & Operations;300000;350000.0;net;3.0;посёлок Дружный;Провенто, ГК;;05.06.2026
+DevOps инженер;DevOps Engineer (MLOps);;;;;Москва;SSP SOFT;Linux, PostgreSQL, Bash, Git, Docker, Ansible, Kafka, Grafana, Prometheus, Zabbix, Spark, Apache Airflow, Apache NiFi;27.05.2026
+DevOps инженер;DevOps engineer;;;;;Санкт-Петербург;АО ИСТ;Git, Linux, Bash, Python;24.05.2026
+DevOps инженер;Руководитель группы DevOps;;;;;Томск;Центральный банк Российской Федерации (Банк России);CentOS, Debian, Bash, Linux, Kubernetes, DevOps, PostgreSQL, ORACLE, Kafka, Jenkins, Python, Gitlab, Управление командой, OpenShift;31.05.2026
+DevOps инженер;Ведущий DevOps-инженер (infrastructure);;;;;Москва;BetBoom.IT;Kubernetes;28.05.2026
+DevOps инженер;DevOps-инженер (junior);80000;140000.0;gross;;Псков;ООО НАСКА;Linux, Bash, Python, Git, Docker, GitHub, Ansible, PostgreSQL, Tc, TCP/IP, DNS, HTTP, HTTPS, SSH, VPN, Английский — A1 — Начальный;26.05.2026
+DevOps инженер;DevOps-инженер;;;;;Москва;Скала^р;Docker, Kafka, Linux;22.05.2026
+DevOps инженер;Инженер инфраструктуры/DevOps Middle+;;;;3.0;Санкт-Петербург;KASSIR.RU;DevOps, Jenkins, Kubernetes, PostgreSQL;28.05.2026
+DevOps инженер;DevOps-инженер;;;;3.0;Москва;ALP GROUP;Инженерная инфраструктура и сети, ИТ-инфраструктура, Python, Bash, Gitlab, Docker, Kubernetes, Ansible, Prometheus, RabbitMQ, Apache Kafka, Redis;22.05.2026
+DevOps инженер;DevOps-инженер;;;;3.0;Казань;BIV;;16.05.2026
+DevOps инженер;DevOps-инженер;;;;3.0;Череповец;BIV;;16.05.2026
+DevOps инженер;DevOps / SRE инженер;;;;3.0;Москва;Qualitica;Linux, DevOps, SRE, Kubernetes, Docker, CI/CD;21.05.2026
+DevOps инженер;DevOps-инженер;;;;3.0;Москва;ООО Ростелеком Информационные Технологии;Linux, DevOps, Контейнеризация;15.05.2026
+DevOps инженер;DevOps engineer (LBOSSE);;;;3.0;Москва;SberTech;;21.05.2026
+DevOps инженер;Администратор/DevOps инженер (ДКА);250000;;gross;3.0;Москва;Сбер. IT;;23.05.2026
+DevOps инженер;Старший devOps-инженер;;;;3.0;Москва;РТЛабс;;20.05.2026
+DevOps инженер;DevOps-инженер в Data platform;;;;3.0;Москва;Национальная Лотерея;;25.05.2026
+DevOps инженер;DevOps-инженер (Kubernetes / CI/CD);250000;;net;3.0;Москва;Lenkep recruitment;DevOps, SQL, Kubernetes, Docker, Ansible, GitLab CI, Linux, LDAP, Yandex Cloud, Terraform;25.05.2026
+DevOps инженер;DevOps-инженер;300000;470000.0;net;3.0;Москва;Coleman Group;Kubernetes, Kafka, Prometheus, Grafana, ELK, CI/CD, Английский — A2 — Элементарный;15.05.2026
+DevOps инженер;DevOps-инженер;;;;3.0;Санкт-Петербург;ООО Нетрика Медицина;Linux, Gitlab, Jenkins, TeamCity, RabbitMQ, SQL, PostgreSQL, Zabbix, Nginx, Администрирование серверов Linux, Atlassian Jira, DevOps, ELK, API, СУБД, Kafka, Elasticsearch, REST, Apache HTTP Server;15.05.2026
+DevOps инженер;DevOps инженер (стажер);70000;;gross;;Ростов-на-Дону;Aston;Linux, IaC, CI/CD, NETWORK, Jenkins, Администрирование серверов Linux, ORACLE, MS SQL, DevOps, Azure, CircleCI, Администрирование, Настройка серверов, Настройка ПО, Настройка сетевых подключений, Локальные сети, Администрирование сетевого оборудования, Сборка ПК, Ответственность, Внимательность, Docker, Bash, Python, Git;20.05.2026
+DevOps инженер;DevOps-инженер;;;;3.0;Москва;ООО МКК Луна;Linux;15.05.2026
+DevOps инженер;Системный инженер/DevOps;;;;3.0;Новосибирск;АО ЭДС;Администрирование серверов на базе Linux, Маршрутизация, FIrewall, VPN, Prometheus, Grafana, Zabbix, Управление доступами, Bash, Python, TCP/IP, DNS, HTTP/S, VLAN, VMware, KVM, Proxmox, Docker;20.05.2026
+DevOps инженер;Руководитель группы DevOps 1С;180000;250000.0;net;3.0;Новосибирск;ООО Майгрин Маркет;1С: Предприятие, Администрирование баз данных, ESB, REST, CI/CD, Git, HTTP, RabbitMQ, SQL, Grafana, Prometheus;30.05.2026
+DevOps инженер;Инженер по информационной безопасности (автоматизация и эксплуатация СЗИ)/DevOps;;;;;Санкт-Петербург;СБЕРКОРУС;SIEM, Информационная безопасность, Kaspersky, WAF, Linux, Windows Server, Администрирование серверов Linux;29.05.2026
+DevOps инженер;DevOps-инженер;;;;3.0;Москва;Национальный исследовательский университет Высшая школа экономики;Английский — A2 — Элементарный;15.05.2026
+DevOps инженер;DevOps Engineer (Gamedev);;;;;Санкт-Петербург;ООО Паттернмастерс;Linux, Docker, PostgreSQL, Kubernetes, Kafka, RabbitMQ;13.05.2026
+DevOps инженер;DevOps-инженер в стрим АиВ;;;;3.0;Нижний Новгород;Т1 Иннотех;Apache Kafka, Jenkins, Linux, Kubernetes, Ansible, PostgreSQL, Git;18.05.2026
+DevOps инженер;DevOps инженер/Tech lead 1С;;;;;Москва;ООО Транснефть-Технологии;Linux, PostgreSQL, Kubernetes, Python, Git, СУБД, Bash, DevOps, Разработка ПО, HTTP, Gitlab, Нагрузочное тестирование, GitLab CI, Windows Server;20.05.2026
+DevOps инженер;Ведущий инженер DevOps (Астра Облако);;;;;Москва;Группа компаний Астра;Linux, Kubernetes, Bash, Ansible, KVM, Zabbix, Terraform;18.05.2026
+DevOps инженер;DevOps инженер (AI-агент);;;;3.0;Москва;Сбер. IT;;15.05.2026
+DevOps инженер;Team lead DevOps (HR платформа);350000;;gross;;Москва;Сбер. IT;;25.05.2026
+DevOps инженер;Middle/Senior DevOps Engineer (PaaS App.Farm);;;;3.0;Москва;ООО РСХБ-Интех;Kubernetes, Docker, Linux, DevOps, Git, Go, Grafana, Kafka, GitLab CI, RabbitMQ, Python, Bash, ELK, Apache Kafka;21.05.2026
+DevOps инженер;DevOps Engineer (KFP);;;;3.0;Москва;Лаборатория Касперского;Linux, Docker, Kubernetes;12.05.2026
+DevOps инженер;Стажер Product-инженер (DevOps);;;;;Москва;Крупный технологичный банк;Linux, Bash, Docker, Kubernetes, Git;14.05.2026
+DevOps инженер;Администратор 1С/DevOps/Инженер 1С;;;;3.0;Москва;ПАО Ростелеком;;21.05.2026
+DevOps инженер;Senior DevOps Engineer;;;;3.0;Москва;АИМОР;;11.05.2026
+DevOps инженер;Руководитель группы devops-инженеров;;;;;Санкт-Петербург;Okko;Jenkins, Kubernetes, Terraform, Python, Groovy, Linux, Управленческие навыки;13.05.2026
+DevOps инженер;DevOps специалист;100000;120000.0;net;;Санкт-Петербург;ИП Козырев Артем Сергеевич;DevOps, Git, Docker, PostgreSQL, Nginx, CI/CD, SQL;27.05.2026
